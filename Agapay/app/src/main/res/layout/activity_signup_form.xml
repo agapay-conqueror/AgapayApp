@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#064474"
+   >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Signup_form"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:visibility="gone"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColorHint="#064474"
+        tools:ignore="MissingConstraints"
+        app:hintTextColor="#064474">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_edittext"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:hint="Full Name:"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20sp"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColorHint="#064474"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="20dp"
+        app:hintTextColor="#064474">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_edittext"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:hint="Username:"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20sp"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColorHint="#064474"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="20dp"
+        app:hintTextColor="#064474">
+
+        <EditText
+            android:id="@+id/txt_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_edittext"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:hint="Email:"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20sp"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColorHint="#064474"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="20dp"
+        app:passwordToggleEnabled="true"
+        app:hintTextColor="#064474">
+
+        <EditText
+            android:id="@+id/txt_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_edittext"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:hint="Password:"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20sp"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColorHint="#064474"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="20dp"
+        app:passwordToggleEnabled="true"
+        app:hintTextColor="#064474">
+
+        <EditText
+            android:id="@+id/txt_confirm_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_edittext"
+            android:hint="Confirm password:"
+            android:textColor="#064474"
+            android:fontFamily="monospace"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="20sp"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="right"
+        android:fontFamily="monospace"
+        android:text="REGISTER"
+        android:textSize="22sp"
+        android:textColor="#fa8d0d"
+        android:background="@drawable/custom_design" />
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="right"
+        android:fontFamily="monospace"
+        android:text="CANCEL"
+        android:textSize="22sp"
+        android:textColor="#fa8d0d"
+        android:background="@drawable/custom_design"
+        android:onClick="btn_cancel"/>
+    </LinearLayout>
+</ScrollView>

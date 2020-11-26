@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70392770719",
+    "firebase_url": "https://agapay-89d01.firebaseio.com",
+    "project_id": "agapay-89d01",
+    "storage_bucket": "agapay-89d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70392770719:android:dbf81812e6b6d2939ef2aa",
+        "android_client_info": {
+          "package_name": "com.example.agapay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70392770719-t30nkak0iaffj1174je406lchh24o9ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJmhS5wL5Y6qtHCIcNmoQx1QxB_otVMGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70392770719-t30nkak0iaffj1174je406lchh24o9ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
