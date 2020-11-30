@@ -23,6 +23,29 @@
             android:layout_gravity="right"
             android:onClick="btn_help"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="TOPICS"
+            android:textSize="50dp"
+            android:onClick="btn_topics"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="PHILLIPPINE
+            MAP"
+            android:textSize="30dp"
+            android:onClick="btn_phMap"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="VIDEOS
+            (sariling atin)"
+            android:textSize="30dp"
+            android:onClick="btn_videos"/>
+
 
 
 
