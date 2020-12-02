@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Agapay</string>
+
+    <string name="about">ABOUT</string>
+    <string name="Philippines">PHILIPPINES, island country of Southeast Asia in the western
+        Pacific Ocean. It is an archipelago consisting of some 7,100 islands and islets lying
+        about 500 miles (800 km) off the coast of Vietnam. Manila is the capital, but nearby
+        Quezon City is the country’s most-populous city. Both are part of the National Capital
+        Region (Metro Manila), located on Luzon, the largest island.
+        The second largest island of the Philippines is Mindanao, in the southeast.</string>
+
 </resources>
