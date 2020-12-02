@@ -23,30 +23,30 @@
             android:layout_gravity="right"
             android:onClick="btn_help"/>
 
-        <Button
+
+        <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="TOPICS"
-            android:textSize="50dp"
-            android:onClick="btn_topics"/>
+            android:layout_height="match_parent"
+            android:src="@drawable/buttontopics"
+            android:onClick="btn_topics"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="20dp"/>
 
-        <Button
+        <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="PHILLIPPINE
-            MAP"
-            android:textSize="30dp"
-            android:onClick="btn_phMap"/>
+            android:layout_height="match_parent"
+            android:src="@drawable/buttonphmap"
+            android:onClick="btn_phMap"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"/>
 
-        <Button
+        <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="VIDEOS
-            (sariling atin)"
-            android:textSize="30dp"
-            android:onClick="btn_videos"/>
-
-
+            android:layout_height="match_parent"
+            android:src="@drawable/buttonvideos"
+            android:background="@drawable/custom_button"
+            android:onClick="btn_videos"
+            android:layout_marginTop="10dp"/>
 
 
     </LinearLayout>
