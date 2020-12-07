@@ -21,7 +21,7 @@ public class PhilippineMap extends AppCompatActivity {
 
         PhotoView photoView =findViewById(R.id.imageview);
 
-        photoView.setImageResource(R.drawable.mayon);
+        photoView.setImageResource(R.drawable.philippinesmap);
 
     }
 }

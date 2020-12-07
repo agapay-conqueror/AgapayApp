@@ -2,11 +2,32 @@
     <string name="app_name">Agapay</string>
 
     <string name="about">ABOUT</string>
-    <string name="Philippines">PHILIPPINES, island country of Southeast Asia in the western
-        Pacific Ocean. It is an archipelago consisting of some 7,100 islands and islets lying
-        about 500 miles (800 km) off the coast of Vietnam. Manila is the capital, but nearby
-        Quezon City is the country’s most-populous city. Both are part of the National Capital
-        Region (Metro Manila), located on Luzon, the largest island.
-        The second largest island of the Philippines is Mindanao, in the southeast.</string>
+    <string name="Philippines">The PHILIPPINES are an island group of over 7,500 islands;
+        the main islands are Luzon, Mindanao, Mindoro, Leyte, Samar, Negros and Panay.
+        Most of the Philippine islands are of volcanic origin. The archipelago is
+        situated within the Southeast Asian part of the Pacific Ring of Fire, an area
+        of intense volcanic and seismic activities. Along the eastern side of the islands
+        runs the Philippine Trench, a submarine trench in the floor of the Philippine Sea. The Galathea
+        Depth within the underwater canyon is one of the deepest depths of the ocean at
+        10,540m (34,580 feet)</string>
+
+    <string name="MSA">Map of Philippines, Maritime Southeast Asia.</string>
+
+    <string name="LVM">The map shows the main island Luzon, Visayas,
+        and Mindanao, other large and small islands, regional capitals,
+        major cities, main roads, railroads and major airports.</string>
+    <string name="mayon">Mt. Mayon a sacred mountain and an active stratovolcano in the province
+        of Albay on the islan of Luzon, Philippines.
+        Image: Albert Lozado</string>
+
+    <string name="Area">With a total of 300,000 km(2), the country is about the size
+        of Italy or slightly larger than the US state of Arizona.</string>
+
+    <string name="Population">A population of nearly 108 million people (in 2020) making
+        the Philippines the world\'s 13th most populous country. The nation\'s capital is Manila,
+        located on Luzon island within a densely populated conglomerate of several
+        other major cities. Together they form Metro Manila, also known as the National
+        Capital Region (NCR). 12.8 million people live in Metro Manila. The country\'s spoken
+        languages are Filipino (based on Tagalog) and English.</string>
 
 </resources>
