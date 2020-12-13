@@ -21,6 +21,69 @@
             android:layout_gravity="right"
             android:onClick="btn_help"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="LANDFORMS"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="CULTURES"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="TIME, CONTINUITY, AND CHANGE"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="PEOPLE, PLACES, AND ENVIRONMENTS"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="INDIVIDUAL DEVELOPMENT AND IDENTITY"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="POWER, AUTHORITY, AND GOVERNANCE"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="SCIENCE, TECHNOLOGY, AND SOCIETY"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"
+            android:textSize="20sp"/>
+
     </LinearLayout>
 
 </ScrollView>

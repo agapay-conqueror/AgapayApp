@@ -76,7 +76,7 @@
             android:layout_gravity="right"
             android:fontFamily="monospace"
             android:text="LOGIN"
-            android:textColor="#fa8d0d"
+            android:textColor="#064474"
             android:background="@drawable/custom_loginbutton" />
 
         <LinearLayout
@@ -99,7 +99,7 @@
             android:layout_marginLeft="3dp"
             android:text="Signup"
             android:fontFamily="monospace"
-            android:textColor="#fa8d0d"
+            android:textColor="#064474"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_signupForm"/>
 
