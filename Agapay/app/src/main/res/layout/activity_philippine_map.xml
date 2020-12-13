@@ -45,6 +45,12 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="@string/PMSA"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/about"
             android:textSize="40sp"
             android:layout_gravity="center"
@@ -95,6 +101,19 @@
             android:textSize="20sp"
             android:textColor="#064474"
             android:padding="9dp"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="wrap_content"
+            android:layout_height="170dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/mtmayon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mayon"
+            android:textColor="#fa8d0d"/>
+
 
 
 
