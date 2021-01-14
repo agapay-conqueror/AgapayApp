@@ -37,6 +37,12 @@
         in the west, and Taiwan, and mainland China to the north. The Philippines
         shares maritime borders with China, Indonesia, Japan, Malaysia, Palau,
         Taiwan (ROC), and Vietnam.
-</string>
+    </string>
+
+    <string name="landforms">LANDFORMS - Natural formation of rocks, soil and even dirt
+        found on earth. They come in different shapes and sizes.</string>
+
+    <string name="landforms1">- Theses place are also the tourist spot that foreigners
+        and even filipino visit during summer.</string>
 
 </resources>
