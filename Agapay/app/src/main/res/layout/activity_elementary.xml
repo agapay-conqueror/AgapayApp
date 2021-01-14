@@ -24,14 +24,20 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="70dp"
-            android:background="@drawable/custom_text"
             android:text="Topics for ELEMENTARY!"
             android:textColor="#064474"
             android:fontFamily="monospace"
             android:textSize="25sp"
             android:gravity="center"/>
 
-        
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="LANDFORMS"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="70dp"
+            android:textColor="#064474"
+            android:textSize="25sp"/>
 
     </LinearLayout>
 
