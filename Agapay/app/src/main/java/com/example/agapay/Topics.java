@@ -29,4 +29,8 @@ public class Topics extends AppCompatActivity {
         ExampleDialog exampleDialog = new ExampleDialog();
         exampleDialog.show(getSupportFragmentManager(), "example dialog");
     }
+
+    public void btn_elementary(View view) {
+        startActivity(new Intent(getApplicationContext(),Elementary.class));
+    }
 }

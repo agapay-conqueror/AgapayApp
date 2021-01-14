@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Agapay">
+        <activity android:name=".Elementary"></activity>
         <activity android:name=".Videos" />
         <activity android:name=".PhilippineMap" />
         <activity android:name=".Topics" />
