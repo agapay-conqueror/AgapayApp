@@ -13,10 +13,15 @@ public class Landforms extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_landforms);
 
-        PhotoView photoView = findViewById(R.id.landforms);
-        PhotoView photoView1 = findViewById(R.id.apo);
+        PhotoView landforms = findViewById(R.id.landforms);
+        PhotoView apo = findViewById(R.id.apo);
+        PhotoView dulang = findViewById(R.id.dulang);
+        PhotoView pulag = findViewById(R.id.pulag);
 
-        photoView.setImageResource(R.drawable.landforms);
-        photoView1.setImageResource(R.drawable.apo);
+
+        landforms.setImageResource(R.drawable.landforms);
+        apo.setImageResource(R.drawable.apo);
+        dulang.setImageResource(R.drawable.dulang);
+        pulag.setImageResource(R.drawable.pulag);
     }
 }

@@ -77,6 +77,8 @@
             android:gravity="center"
             android:textColor="#fa8d0d"/>
 
+        <!--CODES FOR MT.APO-->
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="30dp"
@@ -133,9 +135,139 @@
             android:layout_marginTop="8dp"
             android:textColor="#064474"/>
 
+        <!--CODES FOR MT.DULANG DULANG-->
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="2. MT. DULANG-DULANG"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
 
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/dulang"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,938 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION:  Bukidnon"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 6-8/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dulang"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dulang1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dulang2"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.PULAG-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="3. MT. PULAG"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/pulag"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,926 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Ifugao, Benguet, and Nueva Vizcaya"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 3/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Closed for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pulag"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pulag1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pulag2"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
 
     </LinearLayout>
 
