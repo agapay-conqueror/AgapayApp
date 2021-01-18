@@ -14,7 +14,9 @@ public class Landforms extends AppCompatActivity {
         setContentView(R.layout.activity_landforms);
 
         PhotoView photoView = findViewById(R.id.landforms);
+        PhotoView photoView1 = findViewById(R.id.apo);
 
         photoView.setImageResource(R.drawable.landforms);
+        photoView1.setImageResource(R.drawable.apo);
     }
 }
