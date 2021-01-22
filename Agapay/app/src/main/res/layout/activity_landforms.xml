@@ -269,6 +269,599 @@
             android:layout_marginTop="8dp"
             android:textColor="#064474"/>
 
+        <!--CODES FOR MT.KITANGLAD-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="4. MT. KITANGLAD"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/kitanglad"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,899 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Bukidnon"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 6/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kitanglad"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kitanglad1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.TABAYOC-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+                android:text="5. MT. TABAYOC"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/tabayoc"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,842 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Ifugao, Mountain Province"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 6/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabayoc"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabayoc1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabayoc2"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.KALATUNGAN-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="6. MT. KALATUNGAN"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/kalatungan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,824 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Bukidnon"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 8/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kalatungan"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.PIAPAYUNGAN-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="7. MT. PIAPAYUNGAN"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/piapayungan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,817 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Cotabato, Lanao Del Sur"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 9/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/piapayungan"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.RAGANG-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="8. MT. RAGANG"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/ragang"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,803 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Cotabato, Lanao Del Sur"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 9/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ragang"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.MAAGNAW-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="9. MT. MAAGNAW"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/maagnaw"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,742 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Bukidnon"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 9/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/maagnaw"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR MT.TIMBAK-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="10. MT. TIMBAK"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/timbak"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ELEVATION: 2,717 meters"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOCATION: Benguet"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DIFFICULTY: 2/9"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATUS: Open for climbing"
+            android:textSize="20sp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/timbak"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/timbak1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR VOLCANOS-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="VOLCANO"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volcano"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:id="@+id/volcano"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volcano1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:id="@+id/bulkan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volcano2"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MOST ACTIVE VOLCANOES IN THE PHILIPPINES!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volcano3"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+
+
+        <!--codes for mayon-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="1. MAYON"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/mayon"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- since 1616, Mayon has erupted 47 times!"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for taal-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="2. TAAL"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/taal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- since the 16th century, Taal has erupted more than 30 times!"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for kanlaon-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="3. KANLAON"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/kanlaon"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-  erupted 30 times since 1819!"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for bulusan-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="4. BULUSAN"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/bulusan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-  erupted 15 times since 1885!"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for hibok-hibok-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="5. HIBOK-HIBOK"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/hibok"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-  erupted 5 times in modern history!"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for pinatubo-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="6. PINATUBO"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/pinatubo"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-  erupted in 1991 after being dormant for 600 years.
+                From June 12 to June 16, 1991, the volcano erupted 4 times!"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+
+
     </LinearLayout>
 
 </ScrollView>
