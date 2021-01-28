@@ -52,6 +52,11 @@ public class Landforms extends AppCompatActivity {
         PhotoView bataan = findViewById(R.id.bataan);
         PhotoView bondoc = findViewById(R.id.bondoc);
         PhotoView calatagan = findViewById(R.id.calatagan);
+        PhotoView valley = findViewById(R.id.valley);
+        PhotoView allah = findViewById(R.id.allah);
+        PhotoView cagayan = findViewById(R.id.cagayan);
+        PhotoView davao = findViewById(R.id.davao);
+        PhotoView dewil =findViewById(R.id.dewil);
 
 
         landforms.setImageResource(R.drawable.landforms);
@@ -93,5 +98,10 @@ public class Landforms extends AppCompatActivity {
         bataan.setImageResource(R.drawable.bataan);
         bondoc.setImageResource(R.drawable.bondoc);
         calatagan.setImageResource(R.drawable.calatagan);
+        valley.setImageResource(R.drawable.valley);
+        allah.setImageResource(R.drawable.allah);
+        cagayan.setImageResource(R.drawable.cagayan);
+        davao.setImageResource(R.drawable.davao);
+        dewil.setImageResource(R.drawable.dewil);
     }
 }

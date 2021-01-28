@@ -1399,6 +1399,144 @@
             android:textColor="#064474"/>
 
 
+        <!--codes for VALLEY-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="VALLEY"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/valley"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/valley"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/valley1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="VALLEYS OF THE PHILIPPINES!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <!--codes for ALLAH VALLEY-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="1. ALLAH VALLEY"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/allah"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/allah"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for CAGAYAN VALLEY-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="2. CAGAYAN VALLEY"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/cagayan"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cagayan"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for DAVAO DE ORO VALLEY-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="3. DAVAO DE ORO VALLEY"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/davao"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/davao"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for DEWIL VALLEY-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="4. DEWIL VALLEY"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/dewil"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dewil"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+
 
 
 
