@@ -854,11 +854,552 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-  erupted in 1991 after being dormant for 600 years.
-                From June 12 to June 16, 1991, the volcano erupted 4 times!"
+            android:text="-  erupted in 1991 after being dormant for 600 years. From June 12 to June 16, 1991, the volcano erupted 4 times!"
             android:textSize="17sp"
             android:layout_marginTop="8dp"
             android:textColor="#064474"/>
+
+        <!--CODES FOR PLAINS-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="PLAIN"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/plain"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/plain"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/plain1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/plain1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/plain2"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR HILL-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="HILL"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hill"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/hill"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HILLS OF THE PHILIPPINES!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <!--codes for BANAT-I-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="1. BANAT-I"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/banati"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/banati"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for BANGAN HILL NATIONAL PARK-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="2. BANGAN HILL NATIONAL PARK"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/bangan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bangan"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bangan1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for CASSAMATA HILL NATIONAL PARK-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="3. CASSAMATA HILL NATIONAL PARK"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/cassamata"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cassamata"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cassamata1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for CHOCOLATE HILLS-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="4. CHOCOLATE HILLS"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/chocolate"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chocolate"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chocolate1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for HIMONTAGON HILLS-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="5. HIMONTAGON HILLS"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/himontagon"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/himontagon"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for LIGNON HILL-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="6. LIGNON HILL"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/lignon"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lignon"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lignon1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for MANDUYOG HILL-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="7. MANDUYOG HILL"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/manduyog"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/manduyog"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+
+        <!--codes for PEDRO COLINA HILL-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="8. PEDRO COLINA HILL"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/pedro"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pedro"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pedro1"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--CODES FOR PLATEAU-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="PLATEAU"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/plateau"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/plateau"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for MOUNTAIN RANGES-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="MOUNTAIN RANGES"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/mountainranges"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mountainranges"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MOUNTAIN RANGES OF THE PHILIPPINES!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <!--codes for APO-TALOMO-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="1. APO-TALOMO MOUNTAIN RANGE"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/apotalomo"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/apotalomo"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for CARABALLO MOUNTAINS-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="2. CARABALLO MOUNTAINS"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/caraballo"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/caraballo"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for CENTRAL PANAY -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="3. CENTRAL PANAY"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/central"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/central"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for PENINSULA-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_text2"
+            android:text="PENINSULA"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/peninsula"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mountainranges"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PENINSULAS OF THE PHILIPPINES!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <!--codes for BATAAN PENINSULA-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="1. BATAAN PENINSULA"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/bataan"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bataan"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for BONDOC PENINSULA-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="2. BONDOC PENINSULA"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/bondoc"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bondoc"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+        <!--codes for CALATAGAN PENINSULA-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="3. CALATAGAN PENINSULA"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/calatagan"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/calatagan"
+            android:textSize="17sp"
+            android:layout_marginTop="8dp"
+            android:textColor="#064474"/>
+
+
+
 
 
 

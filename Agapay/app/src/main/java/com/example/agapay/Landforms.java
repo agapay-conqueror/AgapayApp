@@ -32,6 +32,26 @@ public class Landforms extends AppCompatActivity {
         PhotoView bulusan = findViewById(R.id.bulusan);
         PhotoView hibok = findViewById(R.id.hibok);
         PhotoView pinatubo = findViewById(R.id.pinatubo);
+        PhotoView plain = findViewById(R.id.plain);
+        PhotoView plain1 = findViewById(R.id.plain1);
+        PhotoView hill = findViewById(R.id.hill);
+        PhotoView banati = findViewById(R.id.banati);
+        PhotoView bangan = findViewById(R.id.bangan);
+        PhotoView cassamata = findViewById(R.id.cassamata);
+        PhotoView chocolate = findViewById(R.id.chocolate);
+        PhotoView himontagon = findViewById(R.id.himontagon);
+        PhotoView lignon = findViewById(R.id.lignon);
+        PhotoView manduyog = findViewById(R.id.manduyog);
+        PhotoView pedro = findViewById(R.id.pedro);
+        PhotoView plateau = findViewById(R.id.plateau);
+        PhotoView mountainranges = findViewById(R.id.mountainranges);
+        PhotoView apotalomo = findViewById(R.id.apotalomo);
+        PhotoView caraballo = findViewById(R.id.caraballo);
+        PhotoView central = findViewById(R.id.central);
+        PhotoView peninsula = findViewById(R.id.peninsula);
+        PhotoView bataan = findViewById(R.id.bataan);
+        PhotoView bondoc = findViewById(R.id.bondoc);
+        PhotoView calatagan = findViewById(R.id.calatagan);
 
 
         landforms.setImageResource(R.drawable.landforms);
@@ -53,5 +73,25 @@ public class Landforms extends AppCompatActivity {
         bulusan.setImageResource(R.drawable.bulusan);
         hibok.setImageResource(R.drawable.hibok);
         pinatubo.setImageResource(R.drawable.pinatubo);
+        plain.setImageResource(R.drawable.plain);
+        plain1.setImageResource(R.drawable.plain1);
+        hill.setImageResource(R.drawable.hill);
+        banati.setImageResource(R.drawable.banati);
+        bangan.setImageResource(R.drawable.bangan);
+        cassamata.setImageResource(R.drawable.cassamata);
+        chocolate.setImageResource(R.drawable.chocolate);
+        himontagon.setImageResource(R.drawable.himontagon);
+        lignon.setImageResource(R.drawable.lignon);
+        manduyog.setImageResource(R.drawable.manduyog);
+        pedro.setImageResource(R.drawable.pedro);
+        plateau.setImageResource(R.drawable.plateau);
+        mountainranges.setImageResource(R.drawable.mountainranges);
+        apotalomo.setImageResource(R.drawable.apotalomo);
+        caraballo.setImageResource(R.drawable.caraballo);
+        central.setImageResource(R.drawable.central);
+        peninsula.setImageResource(R.drawable.peninsula);
+        bataan.setImageResource(R.drawable.bataan);
+        bondoc.setImageResource(R.drawable.bondoc);
+        calatagan.setImageResource(R.drawable.calatagan);
     }
 }
