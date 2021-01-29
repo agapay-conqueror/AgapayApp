@@ -3,12 +3,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Philippines"
+        tools:context=".Nationalism"
         android:orientation="vertical"
         android:padding="30dp">
 
@@ -16,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="The Philippines!"
+            android:text="Filipino Nationalism!"
             android:textSize="25sp"
             android:gravity="center"
             android:textColor="#fa8d0d"/>
@@ -25,167 +26,179 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/philippines"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:background="@drawable/custom_text2"
-            android:text="The Philippine Map!"
-            android:textSize="25sp"
-            android:gravity="center"
-            android:textColor="#fa8d0d"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="400dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/philippines1"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:text="Republic of the Philippines"
-            android:textSize="20sp"
-            android:layout_gravity="center"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/philippines"
-            android:textSize="17sp"
-            android:layout_marginTop="10dp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/philippines1"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="70dp"
-            android:background="@drawable/custom_text2"
-            android:text="The national flag of the Philippines!"
-            android:textSize="25sp"
-            android:gravity="center"
-            android:textColor="#fa8d0d"/>
+            android:id="@+id/nationalism"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/flag"/>
+            android:id="@+id/nationalism2"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/flag"
-            android:textSize="17sp"
+            android:text="@string/nationalism"
             android:textColor="#064474"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/flag1"
+            android:text="@string/nationalism1"
             android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/flag2"
-            android:textSize="17sp"
+            android:layout_marginTop="10dp"
             android:textColor="#064474"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
-            android:layout_height="700dp"
+            android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/flag1"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="70dp"
-            android:background="@drawable/custom_text2"
-            android:text="Coat of arms of the Philippines!"
-            android:textSize="20sp"
-            android:gravity="center"
-            android:layout_marginTop="10dp"
-            android:textColor="#fa8d0d"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="300dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/coat"/>
+            android:id="@+id/nationalism1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/coat"
+            android:text="@string/nationalism2"
             android:textSize="17sp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="10dp"
             android:textColor="#064474"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/coat1"
+            android:text="@string/nationalism3"
             android:textSize="17sp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="10dp"
             android:textColor="#064474"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:background="@drawable/custom_text2"
-            android:text="The National Anthem!"
+            android:text="The start of Filipino nationalism (1706-1820s!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nationalism4"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nationalism5"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text2"
+            android:text="Three major factors!"
             android:textSize="20sp"
             android:gravity="center"
             android:layout_marginTop="10dp"
             android:textColor="#fa8d0d"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#064474"
+            android:text="1. ECONOMY"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#064474"
+            android:text="2. EDUCATION"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#064474"
+            android:text="3. SECULARIZATION"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nationalism6"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text"
+            android:text="ECONOMY!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
-            android:layout_height="400dp"
+            android:layout_height="200dp"
+            android:id="@+id/economy"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/economy"
+            android:textSize="17sp"
             android:layout_marginTop="10dp"
-            android:id="@+id/lupanghinirang1"/>
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text"
+            android:text="EDUCATION!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/anthem"
+            android:text="@string/education"
             android:textSize="17sp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="10dp"
             android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text"
+            android:text="SECULARIZATION!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/secularization"
+            android:layout_marginTop="8dp"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/anthem1"
-            android:textSize="17sp"
-            android:layout_marginTop="8dp"
-            android:textColor="#064474"/>
+            android:textColor="#064474"
+            android:text="Portrait of Charles III of Spain, 1761!"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/anthem2"
+            android:text="@string/secularization"
             android:textSize="17sp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="10dp"
             android:textColor="#064474"/>
-
-        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:videoId="EPH2kPmADHE"
-            app:autoPlay="true"
-            app:showYouTubeButton="false"
-            android:layout_marginTop="10dp"/>
-
-
 
         <Button
             android:layout_width="98dp"
@@ -197,6 +210,9 @@
             android:textColor="#064474"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_back"/>
+
+
+
 
 
 

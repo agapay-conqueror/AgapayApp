@@ -43,4 +43,12 @@ public class Elementary extends AppCompatActivity {
     public void btn_philippines(View view) {
         startActivity(new Intent(getApplicationContext(),Philippines.class));
     }
+
+    public void btn_nationalism(View view) {
+        startActivity(new Intent(getApplicationContext(),Nationalism.class));
+    }
+
+    public void btn_back(View view) {
+        startActivity(new Intent(getApplicationContext(),Topics.class));
+    }
 }

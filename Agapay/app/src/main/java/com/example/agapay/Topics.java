@@ -33,4 +33,8 @@ public class Topics extends AppCompatActivity {
     public void btn_elementary(View view) {
         startActivity(new Intent(getApplicationContext(),Elementary.class));
     }
+
+    public void btn_back(View view) {
+        startActivity(new Intent(getApplicationContext(),Home.class));
+    }
 }

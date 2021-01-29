@@ -431,10 +431,101 @@
 
     <string name="coat">- THE COAT OF ARMS OF THE PHILIPPINES, features the eight-rayed
         sun of the Philippines with each ray representing the eight provinces
-        (Batangas, Bulacan, Cavite, Manila, Nueva Ecija, Pampanga, and Tarlac) </string>
+        (Batangas, Bulacan, Cavite, Manila,Laguna, Nueva Ecija, Pampanga, and Tarlac) </string>
 
     <string name="coat1">- Which were placed under martial law by Governor-General
         Ramon Blanco during the Philippine Revolution, and the three five pointed
         stars representing the three major island groups of Luzon, the Visayas,
         and Mindanao.</string>
+
+    <string name="anthem">- The Philippine National Anthem is a product of revolution,
+        a response to the need of the revolutionary times that gave birth to it.
+        And this need arose in 1898, when the revolution against Spain was in it its
+        second year and a Filipino victory was in sight.</string>
+    <string name="anthem1">- Gen. Emilio Aguinaldo astutely recognized the need
+        for national symbols to rally the nation against the enemy. On June 5,
+        1898, he commissioned Julian Felipe , a Cavite pianist and composer, to
+        work on a march for the revolutionists. Felipe worked on the assignment
+        for six days and on June 11, sitting in front of a piano in the Aguinaldo
+        living room, played his music before the presidente and his lieutenants.
+        Named by Felipe the Marcha Filipino Magdalo (after Aguinaldo\'s nom de
+        guerre and his faction in the Katipunan), the music was adopted on the
+        spot and renamed the Marcha Nacional Filipina (Philippine National March)
+        .</string>
+
+    <string name="anthem2">- The national anthem was heard publicly for the first
+        time on June 12, 1898, when, standing on the balcony of his Kawit mansion,
+        Aguinaldo proclaimed Asia\'s first independent republic before a cheering
+        throng. Two rallying symbols were presented to the infant nation that day.
+        Also displayed for the first time was the national flag, unfurled to th
+        e stirring strains of the marcha nacional played by the band of San
+        Francisco de Malabon (now Heneral Trias) whose members had learned the
+        music the day before.</string>
+
+    <string name="nationalism">The Aguinaldo Shrine built in 1845 is where Philippine
+        independence from Spain was declared on June 12, 1898.</string>
+
+    <string name="nationalism1">- FILIPINO NATIONALISM, refers to the awakening
+        and support of a political identity associated with modern Philippines
+        leading to a wide-ranging campaign for political, social, and economic
+        freedom in the Philippines.</string>
+
+    <string name="nationalism2">- This gradually emerged out of various political
+        and armed movements throughout most of the Spanish East Indies—but
+        which has long been fragmented and inconsistent with contemporary
+        definitions of such nationalism—as a consequence of more than three
+        centuries of Spanish rule.</string>
+
+    <string name="nationalism3">- These movements are characterized by the
+        upsurge of anti-colonialist sentiments and ideals which peaked in
+        the late 19th century led mostly by the ilustrado or landed, educated
+        elites, whether peninsulares, insulares, or native (Indio). This
+        served as the backbone of the first nationalist revolution in Asia,
+        the Philippine Revolution of 1896. The modern concept would
+        later be fully actualized upon the inception of a Philippine state
+        with its contemporary borders after being granted independence by
+        the United States by the 1946 Treaty of Manila.</string>
+
+    <string name="nationalism4">- The term "Filipino" originally referred to the
+        Spanish criollos of the Philippines. During their 333-year rule of the
+        Philippines, the Spanish rulers referred the natives as indios.</string>
+
+    <string name="nationalism5">- Also during the colonial era, the Spaniards born
+        in the Philippines, who were more known as insulares, criollos, or Creoles,
+        were also called "Filipinos." Spanish-born Spaniards or mainland Spaniards
+        residing in the Philippines were referred to as Peninsulares. Those of mixed
+        ancestry were referred to as Mestizos. The Creoles, despite being regarded
+        by the Peninsulares as inferior to them, had enjoyed various government and
+        church positions, and composed the majority of the government bureaucracy.
+    </string>
+
+    <string name="nationalism6">-  These factors contributed to the birth of the Filipino
+        Nationalism.</string>
+
+    <string name="economy">- The decline of Galleon trade between Manila and Acapulco was
+        caused by the arrival of the ship Buen Consejo in 1765. The Buen Consejo
+        took the shorter route via Cape of Good Hope, a rocky headland on the
+        Atlantic coast controlled by Portugal.</string>
+
+    <string name="education">- During the administration of Governor-General Jose
+        Raon, a royal order from Spain, which stated that every village or barrio
+        must have a school and a teacher, was implemented. The implementation of
+        the order expanded the reach of basic education during the Spanish era.
+        Also, during the 18th century, modern agricultural tools made many people
+        leave farming for pursuing academic and intellectual courses. After the
+        arrival of Buen Consejo, the Philippines had more direct contact to Europe
+        and the ideas circulating. Thus, the Philippines was influenced by the
+        principles during the Age of Enlightenment and radical changes during the
+        French Revolution.</string>
+
+    <string name="secularization">- By royal decree on February 27, 1767, King Carlos III
+        ordered the Jesuits to be expelled from Spain, and from all her colonies.
+        The decree reached the Philippines in early 1768, wherein Governor-General
+        Raon tried to do the Jesuits a favor by delaying the implementation of the
+        royal order in exchange of bribes. This gave the Jesuit priests to hide
+        all of their possessions and destroy documents that could be held against
+        them, which were supposed to be confiscated. The first batch of Jesuits,
+        numbered 64, left Manila only by May 17, 1768. This event caused Raon
+        to face prosecution from the next Governor-General, as ordered by the
+        King of Spain. Raon died before the judgment for him was laid.</string>
 </resources>
