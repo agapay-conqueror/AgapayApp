@@ -32,4 +32,20 @@ public class Highschool extends AppCompatActivity {
     public void btn_asian(View view) {
         startActivity(new Intent(getApplicationContext(),Asianstudies.class));
     }
+
+    public void btn_world(View view) {
+        startActivity(new Intent(getApplicationContext(),Worldhistory.class));
+    }
+
+    public void btn_economics(View view) {
+        startActivity(new Intent(getApplicationContext(),Economics.class));
+    }
+
+    public void btn_back(View view) {
+        startActivity(new Intent(getApplicationContext(),Topics.class));
+    }
+
+    public void btn_contemporary(View view) {
+        startActivity(new Intent(getApplicationContext(),Contemporaryissue.class));
+    }
 }

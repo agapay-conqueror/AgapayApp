@@ -9,7 +9,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Asianstudies"
+        tools:context=".Worldhistory"
         android:orientation="vertical"
         android:padding="30dp">
 
@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="Asian Studies!"
+            android:text="World History!"
             android:textSize="25sp"
             android:gravity="center"
             android:textColor="#fa8d0d"/>
@@ -26,103 +26,21 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/asia"/>
+            android:id="@+id/world"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/asia"
+            android:text="@string/world"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/asia1"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
+            android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="ASIA"
-            android:textSize="20sp"
-            android:gravity="center"
-            android:layout_marginTop="10dp"
-            android:textColor="#fa8d0d"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/asia1"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/asia2"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/asia3"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:background="@drawable/custom_text2"
-            android:text="HISTORY OF ASIA"
-            android:textSize="20sp"
-            android:gravity="center"
-            android:layout_marginTop="10dp"
-            android:textColor="#fa8d0d"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/history"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/sumer"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/babylon"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/assyria"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/history1"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:background="@drawable/custom_text2"
-            android:text="CULTURE OF ASIA"
+            android:text="Establishment and perimeters of the field"
             android:textSize="20sp"
             android:gravity="center"
             android:layout_marginTop="10dp"
@@ -131,7 +49,45 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/culture"
+            android:text="@string/world1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/world2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/world3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#064474"
+            android:text="1. A tendency to use current nation-states to set
+                the boundaries and agendas of studies of the past."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#064474"
+            android:text="2.A deep legacy of Eurocentric assumptions
+                (found especially, but not only, in Western history-writing)."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/world4"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -140,12 +96,106 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/culture"/>
+            android:id="@+id/world1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Organizations"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/culture1"
+            android:text="@string/org"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/org1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/org2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/org3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="History"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pre-modern"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pre"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Early modern"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/early"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contemporary"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/contempory"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -154,30 +204,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/culture1"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/culture2"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/culture2"/>
-
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/culture3"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
+            android:id="@+id/pre"/>
 
         <Button
             android:layout_width="98dp"
@@ -189,6 +216,7 @@
             android:textColor="#064474"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_back"/>
+
 
 
 

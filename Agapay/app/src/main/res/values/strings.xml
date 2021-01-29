@@ -372,19 +372,19 @@
 
     <string name="manufacturing">- MANUFACTURING comprises more than half of the Philippine\'s
         industrial sector and accounts for almost a quarter of the country\'s Gross
-        Domestic Product (GDP). From an annual growth rate of 5.4% in 2012, the
-        manufacturing sector grew by 10.5% in 2013 and 8.1% in 2014</string>
+        Domestic Product (GDP). From an annual growth rate of 5.4 in 2012, the
+        manufacturing sector grew by 10.5 in 2013 and 8.1 in 2014</string>
 
     <string name="tourism">TOURISM is an important sector for Philippine economy. In
         2019, the travel and tourism industry contributed 12.7% to the country\'s GDP.
         Philippines is an archipelagic country composed of 7,641 islands with 82 provinces
         divided in 17 regions.</string>
 
-    <string name="bpo">As a prime knowledge process outsourcing destination, the Philippines\'
+    <string name="bpo">As a prime knowledge process outsourcing destination, the Philippines
         KPO sector thrives and stays as part of the country\'s major contributor
         to its GDP. In fact, as per the Information Technology and Business Process Management
-        (IT-BPM) Roadmap 2022, the demand for mid-skill and high-skill jobs will take
-        46% and 27% of IT-BPM careers, respectively. This proves there is more to
+        (IT-BPM) road map 2022, the demand for mid-skill and high-skill jobs will take
+        46 and 27 of IT-BPM careers, respectively. This proves there is more to
         come for the future of the knowledge process outsourcing industry.</string>
 
     <string name="infrastructure">The logistics industry remains a significant and growing segment
@@ -585,7 +585,7 @@
         World War I led to a weakening of European stature in Asia, and the
         Wilson doctrine of self-determination inspired many nationalist and
         revolutionary movements.</string>
-    
+
     <string name="culture">- Asian refers to all the people who are residing in
         Asia. There are many countries that form a part of the continent of Asia
         like the Islamic nations and the Southeastern countries of Nepal, India
@@ -627,4 +627,236 @@
         Baisakhi, and Eid ul-Fitr, Dusshera, Onam and Christmas and are
         celebrated with great fervor all over India.</string>
 
+    <string name="world">World history or global history as a field of historical
+        study examines history from a global perspective. It emerged centuries
+        ago; leading practitioners have included Voltaire (1694-1778), Hegel
+        (1770-1831), Karl Marx (1818-1883) and Arnold J. Toynbee (1889-1975).
+        The field became much more active (in terms of university teaching, text
+        books, scholarly journals, and academic associations) in the late 20th
+        century. It is not to be confused with comparative history, which, like
+        world history, deals with the history of multiple cultures and nations,
+        but does not do so on a global scale. World history looks for common
+        patterns that emerge across all cultures. World historians use a thematic
+        approach, with two major focal points: integration (how processes of
+        world history have drawn people of the world together) and difference
+        (how patterns of world history reveal the diversity of the human
+        experience).</string>
+
+    <string name="world1">- Jerry H. Bentley has observed that \'the term world
+        history has never been a clear signifier with a stable referent\', and
+        that usage of the term overlaps with universal history, comparative
+        history, global history, big history, macro history, and transnational
+        history, among others.</string>
+
+    <string name="world2">- The advent of world history as a distinct academic
+        field of study can be traced to the 1960s, but the pace quickened in the
+        1980s. A key step was the creation of the World History Association and
+        graduate programs at a handful of universities. Over the next decades
+        scholarly publications, professional and academic organizations, and
+        graduate programs in World History proliferated. World History has often
+        displaced Western Civilization in the required curriculum of American high
+        schools and universities, and is supported by new textbooks with a world
+        history approach.</string>
+
+    <string name="world3">- World History attempts to recognize and address two
+        structures that have profoundly shaped professional history-writing:
+    </string>
+
+    <string name="world4">- Thus World History tends to study networks, connections,
+        and systems that cross traditional boundaries of historical study like
+        linguistic, cultural, and national borders. World History is often
+        concerned to explore social dynamics that have led to large-scale changes
+        in human society, such as industrialization and the spread of capitalism,
+        and to analyse how large-scale changes like these have affected different
+        parts of the world. Like other branches of history-writing in the second
+        half of the twentieth century, World History has a scope far beyond
+        historians\' traditional focus on politics, wars, and diplomacy, taking
+        in a panoply of subjects like gender history, social history, cultural
+        history, and environmental history.</string>
+
+    <string name="org">-The H-World website and online network is used among some
+        practitioners of world history, and allows discussions among scholars,
+        announcements, syllabi, bibliographies and book reviews. </string>
+
+    <string name="org1">- The International Society for the Comparative Study of
+        Civilizations (ISCSC) approaches world history from the standpoint of
+        comparative civilizations. Founded at a conference in 1961 in Salzburg,
+        Austria, that was attended by Othmar Anderlie, Pitirim Sorokin, and
+        Arnold J. Toynbee, this is an international association of scholars that
+        publishes a journal, Comparative Civilization Review, and hosts an annual
+        meeting in cities around the world.</string>
+
+    <string name="org2">- The Journal of Global History is a scholarly journal
+        established in 2006 and is published by Cambridge University Press.
+    </string>
+
+    <string name="org3">- The World History Association (WHA) was established in
+        1982, and is predominantly an American phenomenon. Since 1990, it
+        publishes the Journal of World History on a quarterly basis.</string>
+
+    <string name="pre">- In Ancient China, Chinese world history, that of
+        China and the surrounding people of East Asia, was based on the dynastic
+        cycle articulated by Sima Qian in circa 100 BC. Sima Qian\'s model is
+        based on the Mandate of Heaven. Rulers rise when they united China,
+        then are overthrown when a ruling dynasty became corrupt. Each new
+        dynasty begins virtuous and strong, but then decays, provoking the
+        transfer of Heaven\'s mandate to a new ruler. The test of virtue in a new
+        is success in being obeyed by China and neighboring barbarians. After
+        2000 years Sima Qian\'s model still dominates scholarship, although the
+        dynastic cycle is no longer used for modern Chinese history.</string>
+
+
+    <string name="early">- During the Renaissance in Europe, history was written
+        about states or nations. The study of history changed during the
+        Enlightenment and Romanticism. Voltaire described the history of certain
+        ages that he considered important, rather than describing events in
+        chronological order. History became an independent discipline. It was
+        not called philosophia historiae anymore, but merely history (historia).
+        Voltaire, in the 18th century, attempted to revolutionize the study of
+        world history. First, Voltaire concluded that the traditional study of
+        history was flawed. The Christian Church, one of the most powerful
+        entities in his time, had presented a framework for studying history.
+        Voltaire, when writing History of Charles XII (1731) and The Age of Louis
+        XIV (1751), instead choose to focus economics, politics and culture.
+        These aspects of history were mostly unexplored by his contemporaries
+        and would each develop into their own sections of world history. Above
+        all else, Voltaire regarded truth as the most essential part of recording
+        world history. Nationalism and religion only subtracted from objective
+        truth, so Voltaire freed himself for their influence when he recorded
+        history.</string>
+
+    <string name="contempory">- World history became a popular genre in the 20th
+        century with universal history. In the 1920s, several best-sellers dealt
+        with the history of the world, including surveys The Story of Mankind
+        (1921) by Hendrik Willem van Loon and The Outline of History (1918) by
+        H.G. Wells. Influential writers who have reached wide audiences include
+        H. G. Wells, Oswald Spengler, Arnold J. Toynbee, Pitirim Sorokin, Carroll
+        Quigley, Christopher Dawson, and Lewis Mumford. Scholars working the
+        field include Eric Voegelin, William Hardy McNeill and Michael Mann.
+         With evolving technologies such as dating methods and surveying laser
+        technology called LiDAR, contemporary historians have access to new
+        information which changes how past civilizations are studied.</string>
+
+    <string name="economics">- ECONOMICS is a social science concerned with the
+        production, distribution, and consumption of goods and services. It
+        studies how individuals, businesses, governments, and nations make
+        choices about how to allocate resources.</string>
+
+    <string name="economics1">- Economics focuses on the actions of human beings, based
+        on assumptions that humans act with rational behavior, seeking the
+        most optimal level of benefit or utility. The building blocks of
+        economics are the studies of labor and trade. Since there are many
+        possible applications of human labor and many different ways to
+        acquire resources, it is the task of economics to determine which
+        methods yield the best results.</string>
+
+    <string name="economics2">- The principle (and problem) of economics is
+        that human beings have unlimited wants and occupy a world of limited
+        means. For this reason, the concepts of efficiency and productivity
+        are held paramount by economists. Increased productivity and a more
+        efficient use of resources, they argue, could lead to a higher
+        standard of living.</string>
+
+    <string name="economics3">- Despite this view, economics has been
+        pejoratively known as the "dismal science," a term coined by Scottish
+        historian Thomas Carlyle in 1849. He used it to criticize the liberal
+        views on race and social equality of contemporary economists like
+        John Stuart Mill, though some commentators suggest Carlyle was
+        actually describing the gloomy predictions by Thomas Robert Malthus
+        that population growth would always outstrip the food supply.</string>
+
+    <string name="microeconomics">- MICROECONOMICS, focuses on how individual
+        consumers and firms make decisions; these individual decision making
+        units can be a single person, a household, a business/organization,
+        or a government agency. Analyzing certain aspects of human behavior,
+        microeconomics tries to explain how they respond to changes in price
+        and why they demand what they do at particular price levels.
+        Microeconomics tries to explain how and why different goods are
+        valued differently, how individuals make financial decisions, and
+        how individuals best trade, coordinate, and cooperate with one another
+        . Microeconomics\' topics range from the dynamics of supply and demand
+        to the efficiency and costs associated with producing goods and
+        services; they also include how labor is divided and allocated;
+        how business firms are organized and function; and how people approac
+        h uncertainty, risk, and strategic game theory.</string>
+
+    <string name="macroeconomics">- MACROECONOMICS studies an overall economy
+        on both a national and international level, using highly aggregated
+        economic data and variables to model the economy. Its focus can include
+        a distinct geographical region, a country, a continent, or even the
+        whole world. Its primary areas of study are recurrent economic cycles
+        and broad economic growth and development. Topics studied include
+        foreign trade, government fiscal and monetary policy, unemployment
+        rates, the level of inflation and interest rates, the growth of total
+        production output as reflected by changes in the Gross Domestic
+        Product (GDP), and business cycles that result in expansions, booms,
+        recessions, and depressions. </string>
+
+    <string name="both">- Micro and macroeconomics are intertwined. Aggregate
+        macroeconomic phenomena are obviously and literally just the sum total
+        of microeconomic phenomena. However these two branches of economics use
+        very different theories, models, and research methods, which sometimes
+        appear to conflict with each other. Integrating the microeconomics
+        foundations into macroeconomic theory and research is a major area of
+        study in itself for many economists.</string>
+
+    <string name="macro">- Two of the most common in macroeconomics are MONETARIST
+        and KEYNESIAN. Monetarists are a branch of Keynesian economics that argue
+        that stable monetary policy is the best course for managing the economy,
+        and otherwise often have generally favorable views on free markets as the
+        best way to allocate resources. In contrast, other Keynesian approaches
+        favor fiscal policy by an activist government in order to manage
+        irrational market swings and recessions and believe that markets often
+        don\'t work well at allocating resources on their own.</string>
+
+    <string name="indicators">- Economic indicators are reports that detail a
+        country\'s economic performance in a specific area. These reports are
+        usually published periodically by governmental agencies or private
+        organizations, and they often have a considerable effect on stocks,
+        fixed income, and forex markets when they are released. They can also
+        be very useful for investors to judge how economic conditions will
+        move markets and to guide investment decisions.</string>
+
+    <string name="issue">- A contemporary issue refers to an issue that is
+        currently affecting people or places and that is unresolved. A
+        geographic issue refers to a topic, concern or problem, debate, or
+        controversy related to a natural and/or cultural environment, which
+        includes a spatial dimension.</string>
+
+    <string name="environmental">- The Philippines are prone to natural disasters, particularly typhoons, floods,
+        landslides, volcanic eruptions, earthquakes, and tsunamis, lying as it does astride the
+        typhoon belt, in the active volcanic region known as the “Pacific Ring of Fire,” and in the
+        geologically unstable region between the Pacific and Eurasian tectonic plates. The
+        Philippines also suffers major human-caused environmental degradation aggravated by
+        a high annual population growth rate, including loss of agricultural lands, deforestation,
+        soil erosion, air and water pollution, improper disposal of solid and toxic wastes, loss of
+        coral reefs, mismanagement and abuse of coastal resources, and overfishing.</string>
+
+
+    <string name="climate">- Recent scientific studies reveal
+        that human activities have contributed
+        significantly to the increase of
+        greenhouse gases in the atmosphere
+        that causes climate change.</string>
+
+    <string name="climate1">- The Philippines is a hotspot for
+        climate change disasters particularly the
+        risk for agriculture and food security due
+        to extreme El Nino and severe tropical
+        cyclones. The spread of infectious
+        diseases are influenced by fluctuations in
+        climate variables, temperature, relative
+        humidity and rainfall. Sever super
+        typhoons like Reming that pummeled the Bicol region in 2006 destroyed at least $90-
+        million worth of agricultural products and infrastructure. </string>
+
+    <string name="climate2">- Diseases such as dengue fever, malaria, cholera have increased throughout the
+        years. Climate change impacts on coastal zones and marine ecosystems caused
+        massive coral bleaching especially in 1998 due to elevated sea temperature and fish
+        kills and red tides like the one that occurred in 1992 which was an El Nino period.</string>
+
+
+    <string name="climate3">- Scientists warned the Philippines could experience famine by 2020, as the
+        adverse impact of global warming takes its toll on natural resources. Thousands will be
+        displaced from their homes especially in low-lying coastal communities. </string>
 </resources>

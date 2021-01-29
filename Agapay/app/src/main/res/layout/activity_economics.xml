@@ -3,13 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    >
+    android:layout_height="match_parent">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Asianstudies"
+        tools:context=".Economics"
         android:orientation="vertical"
         android:padding="30dp">
 
@@ -17,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="Asian Studies!"
+            android:text="Economics!"
             android:textSize="25sp"
             android:gravity="center"
             android:textColor="#fa8d0d"/>
@@ -26,12 +25,12 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/asia"/>
+            android:id="@+id/economics"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/asia"
+            android:text="@string/economics"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -39,99 +38,64 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/asia1"
+            android:text="@string/economics1"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="30dp"
+            android:layout_height="wrap_content"
+            android:text="@string/economics2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/economics3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="ASIA"
-            android:textSize="20sp"
+            android:text="Types of Economics!"
+            android:textSize="25sp"
             android:gravity="center"
-            android:layout_marginTop="10dp"
-            android:textColor="#fa8d0d"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/asia1"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/asia2"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/asia3"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:background="@drawable/custom_text2"
-            android:text="HISTORY OF ASIA"
-            android:textSize="20sp"
-            android:gravity="center"
-            android:layout_marginTop="10dp"
-            android:textColor="#fa8d0d"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/history"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/sumer"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/babylon"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/assyria"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/history1"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:background="@drawable/custom_text2"
-            android:text="CULTURE OF ASIA"
-            android:textSize="20sp"
-            android:gravity="center"
-            android:layout_marginTop="10dp"
             android:textColor="#fa8d0d"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/culture"
+            android:text="@string/microeconomics"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/macroeconomics"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/both"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/macro"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -140,41 +104,21 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/culture"/>
+            android:id="@+id/economics1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Economic Indicators!"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/culture1"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/culture1"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/culture2"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/culture2"/>
-
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/culture3"
+            android:text="@string/indicators"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -189,7 +133,6 @@
             android:textColor="#064474"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_back"/>
-
 
 
 

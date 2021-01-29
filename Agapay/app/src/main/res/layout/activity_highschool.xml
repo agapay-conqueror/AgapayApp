@@ -40,6 +40,48 @@
             android:textSize="25sp"
             android:onClick="btn_asian"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="WORLD HISTORY"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="25sp"
+            android:onClick="btn_world"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="ECONOMICS"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="25sp"
+            android:onClick="btn_economics"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="CONTEMPORARY ISSUES"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="25sp"
+            android:onClick="btn_contemporary"/>
+
+        <Button
+            android:layout_width="98dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:text="Back"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:background="@drawable/custom_loginbutton"
+            android:onClick="btn_back"/>
+
+
     </LinearLayout>
 
 </ScrollView>
