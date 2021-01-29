@@ -353,4 +353,61 @@
     <string name="ph5">- The total land area is 298,170 Km2 (115,124 sq. miles).</string>
     <string name="ph6">- 47.5% of the population is urban (52,008,603 people i 2020).</string>
     <string name="ph7">- The median age in the Philippines is 25.7 years.</string>
+
+    <string name="pdc">The Philippines is not a developed country. The nation falls
+        behind on every one of the most common metrics used by economist to determine
+        development status. The Philippines\' per capita gross domestic product (GDP),
+        Human Development Index (HDI) and life expectancy sit well below the thresholds
+        for developed country status. Moreover, the country\'s infant mortality rate is
+        very high, its industrialization is minimal, and many of its citizens lack
+        access to quality health care and higher education.</string>
+
+    <string name="pdc1">As of 2016, per capita GDP in the Philippines is $7,358, well below
+        any accepted minimum for developed country status. The country\'s latest HDI is
+        0.66. Its infant mortality rate 22 per 1,000 live births and its life expectancy
+        is 69 years.</string>
+
+    <string name="pdc2">The Philippines is very much a developing country, and it has a
+        long way to go to reach developed status.</string>
+
+    <string name="manufacturing">- MANUFACTURING comprises more than half of the Philippine\'s
+        industrial sector and accounts for almost a quarter of the country\'s Gross
+        Domestic Product (GDP). From an annual growth rate of 5.4% in 2012, the
+        manufacturing sector grew by 10.5% in 2013 and 8.1% in 2014</string>
+
+    <string name="tourism">TOURISM is an important sector for Philippine economy. In
+        2019, the travel and tourism industry contributed 12.7% to the country\'s GDP.
+        Philippines is an archipelagic country composed of 7,641 islands with 82 provinces
+        divided in 17 regions.</string>
+
+    <string name="bpo">As a prime knowledge process outsourcing destination, the Philippines\'
+        KPO sector thrives and stays as part of the country\'s major contributor
+        to its GDP. In fact, as per the Information Technology and Business Process Management
+        (IT-BPM) Roadmap 2022, the demand for mid-skill and high-skill jobs will take
+        46% and 27% of IT-BPM careers, respectively. This proves there is more to
+        come for the future of the knowledge process outsourcing industry.</string>
+
+    <string name="infrastructure">The logistics industry remains a significant and growing segment
+        of the Philippine economy due to commerce and infrastructure developments.
+        In 2019, the transportation and storage summed up to USD 13 billion and has accounted
+        for around 4% of the Philippines\' GDP over the last five years.</string>
+
+    <string name="agribusiness">AGRIBUSINESS refers to agriculture-related activities that
+        put farmers, processors, distributors, and consumers within a system that produces,
+        transport, markets, and distributes agricultural products.</string>
+
+    <string name="philippines">- Is an archipelagic country in Southeast Asia. Situated
+        in the western Pacific Ocean, it consists of about 7,641 islands that are
+        broadly categorized under three main geographical divisions from north to
+        south: Luzon, Visayas, Mindanao. The capital city of the Philippines is
+        MANILA and the most populous city is QUEZON CITY, both within the single
+        urban area of Metro Manila.</string>
+    <string name="philippines1">- The Philippines\' position as an island country on the
+        Pacific RING OF FIRE and close to the equator makes the country prone to earthquakes
+        and typhoons. The country has a variety of natural resources and a globally significant
+        level of biodiversity. The Philippines has an area of around 300,000 km2
+        (120,000 sq mi) with a population of around 109 million people. As of 2020,
+        it is the 8th-most populated country in the world. Multiple ethnicities and
+        cultures are found throughout the islands.</string>
+
 </resources>
