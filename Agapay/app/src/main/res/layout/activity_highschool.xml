@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Highschool"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <ImageButton
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/ic_help"
+            android:background="@drawable/custom_imagebutton"
+            android:layout_gravity="right"
+            android:id="@+id/btn_help"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Topics for HIGHSCHOOL!"
+            android:textColor="#064474"
+            android:fontFamily="monospace"
+            android:textSize="25sp"
+            android:gravity="center"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="ASIAN STUDIES"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="25sp"
+            android:onClick="btn_asian"/>
+
+    </LinearLayout>
+
+</ScrollView>
