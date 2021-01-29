@@ -65,6 +65,74 @@
             android:textSize="17sp"
             android:textColor="#064474"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text2"
+            android:text="The national flag of the Philippines!"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/flag"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/flag"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/flag1"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/flag2"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/flag1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text2"
+            android:text="Coat of arms of the Philippines!"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/coat"/>
+
+        <Button
+            android:layout_width="98dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:text="Back"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:background="@drawable/custom_loginbutton"
+            android:onClick="btn_back"/>
+
 
     </LinearLayout>
 

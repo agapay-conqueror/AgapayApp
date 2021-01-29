@@ -410,4 +410,31 @@
         it is the 8th-most populated country in the world. Multiple ethnicities and
         cultures are found throughout the islands.</string>
 
+    <string name="flag">- National flag consisting of horizontal stripes of blue and red with
+        a white hoist triangle incorporating a golden sun and three stars. The flag\'s width-to-length
+        ratio is generally 1 to 2.</string>
+
+    <string name="flag1">- The 1898 overthrow of Spanish authority by the United
+        States led Filipinos to believe that their country’s independence,
+        proclaimed on June 12, 1898, was guaranteed.A national flag quite different from the revolutionary
+        banners used a few years before was adopted. At the hoist was a white
+        triangle, symbolic of liberty and probably derived from Masonic
+        symbolism.  </string>
+
+    <string name="flag2">- It bore a golden sun and three golden stars, standing for
+        the three main areas in the Philippines—the Luzon group of islands in
+        the north, the Visayan group in the south, and the main southern island
+        of Mindanao. The eight sun rays were for the provinces where the
+        original anti-Spanish revolt had broken out. The remainder of the flag
+        consisted of horizontal stripes of blue (for the willingness to
+        sacrifice oneself for freedom) over red (for courage).</string>
+
+    <string name="coat">- THE COAT OF ARMS OF THE PHILIPPINES, features the eight-rayed
+        sun of the Philippines with each ray representing the eight provinces
+        (Batangas, Bulacan, Cavite, Manila, Nueva Ecija, Pampanga, and Tarlac) </string>
+
+    <string name="coat1">- Which were placed under martial law by Governor-General
+        Ramon Blanco during the Philippine Revolution, and the three five pointed
+        stars representing the three major island groups of Luzon, the Visayas,
+        and Mindanao.</string>
 </resources>
