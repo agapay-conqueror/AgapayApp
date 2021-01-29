@@ -31,4 +31,8 @@ public class Elementary extends AppCompatActivity {
     public void btn_landforms(View view) {
         startActivity(new Intent(getApplicationContext(),Landforms.class));
     }
+
+    public void btn_population(View view) {
+        startActivity(new Intent(getApplicationContext(),Population.class));
+    }
 }

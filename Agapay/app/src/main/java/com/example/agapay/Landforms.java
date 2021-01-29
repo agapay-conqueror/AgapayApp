@@ -2,7 +2,9 @@ package com.example.agapay;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import com.github.chrisbanes.photoview.PhotoView;
 
@@ -103,5 +105,9 @@ public class Landforms extends AppCompatActivity {
         cagayan.setImageResource(R.drawable.cagayan);
         davao.setImageResource(R.drawable.davao);
         dewil.setImageResource(R.drawable.dewil);
+    }
+
+    public void btn_back(View view) {
+        startActivity(new Intent(getApplicationContext(),Elementary.class));
     }
 }

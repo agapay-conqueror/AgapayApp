@@ -318,12 +318,39 @@
     <string name="davao">- The province was formerly known as COMPOSTELA VALLEY, from
         its inception until December 2019, when a plebiscite ratified the law that
         proposed to rename the province to Davao de Oro.</string>
-    
+
     <string name="dewil">- located in the northernmost part of Palawan, an island province
         of the Philippines that is located in the Mimaropa region, is an archaeological site
         composed of thousands of artifacts and features.</string>
 
+    <string name="population">In statistics, a population is the entire pool from which a
+        statistical sample is drawn. A population may refer to an entire group of people,
+        objects, events, hospital visits, or measurements. A population can thus be said
+        to be an aggregate observation of subjects grouped together by a common feature.</string>
 
+    <string name="population1">A population can be defined by any number of characteristics
+        within a group that statisticians use to draw conclusions about the subjects in
+        a study. A population can be vague or specific. Examples of population
+        (defined VAGUELY) include the number of newborn babies in North America,
+        total number of tech startups in Asia, average height of all CFA candidates
+        in the world, mean weight of U.S taxpayers and so on.</string>
 
+    <string name="ph">- The current population of the PHILIPPINES is 110,416,174
+        as of Thursday, January 28, 2021, based on Worldometer elaboration of the
+        latest United Nations data.</string>
 
+    <string name="ph1">- The Philippines 2020 poulation is estimated at 109,581,078
+        people at mid year according to UN data.</string>
+
+    <string name="ph2">- The Philippines population is equavalent to 1.41% of
+        the total world population.</string>
+
+    <string name="ph3">- The Philippines ranks number 13 in the list of countries
+        (and dependencies) by population.</string>
+
+    <string name="ph4">- The population density in the Philippines is 368 per Km2
+        (952 people per mi2).</string>
+    <string name="ph5">- The total land area is 298,170 Km2 (115,124 sq. miles).</string>
+    <string name="ph6">- 47.5% of the population is urban (52,008,603 people i 2020).</string>
+    <string name="ph7">- The median age in the Philippines is 25.7 years.</string>
 </resources>
