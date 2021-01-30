@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Socialwork"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Social Work!"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/socialwork"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Social Work!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Complexities of social situation."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- SOCIAL WORK as responsive, dynamic, and visionary."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Existence of helping methods and humanitarian assistance since civilization."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Strives to find meaning and significance."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Debates on the fundamental issues of social work."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Issues on Social Work!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Ephasis given to the person."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Ephasis given to the environment."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- How interventions should be directed?"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Whether social work is for everyone or special populations."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Appropriates of social workers as agents of social control."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Nature of relationships of social workers to employers."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Knowledge and skills required in generalist and specialist practice."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Social workers must be involved not only with the people but also with
+the societal factors that contributed to the problem."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/custom_text"
+            android:text="Four Areas of Consideration in Social Work"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MORALES and SHEAFOR(1983"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Social worker is concerned with enabling or facilitating change."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Social worker helps people or institutions to enhance social functioning."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Applying the social work systems theory, social wrok is a profession that helps people to interact more with the social environment."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Social worker must have handles in fortifying and securing the necessary resources to attain the goals of the clients."
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text"
+            android:text="Definition of SOCIAL WORK"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/social"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/social"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/social1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/social1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/social2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/social2"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/work"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/work1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fa8d0d"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:text="Types of Social workers making a difference in the world!"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="1. Substance abuse social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/subs"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="2. Community social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/subs"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="3. Hospice and palliative care social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hos"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="4. Military and veterans social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mil"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="5. child, family and school social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chi"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="6. Psychiatric social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/psy"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="7. Healthcare social worker!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hea"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <Button
+            android:layout_width="98dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:text="Back"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:background="@drawable/custom_loginbutton"
+            android:onClick="btn_back"/>
+
+    </LinearLayout>
+
+</ScrollView>

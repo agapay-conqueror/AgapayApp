@@ -51,6 +51,26 @@
             android:onClick="btn_sociology"/>
 
         <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="ANTHROPOLOGY"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="25sp"
+            android:onClick="btn_anthropology"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="SOCIAL WORK"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="25sp"
+            android:onClick="btn_socialwork"/>
+
+        <Button
             android:layout_width="98dp"
             android:layout_height="37dp"
             android:layout_gravity="end"

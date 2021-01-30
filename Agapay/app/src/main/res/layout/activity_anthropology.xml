@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Anthropology"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Anthropology!"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/anthropology"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/anthropology"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/anthropology1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Child of Imperialism!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/imperialism"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/imperialism"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/imperialism1"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/imperialism2"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/imperialism3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Beyer's Studies!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/beyer"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/beyer1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/beyer2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Wave Migration Theory!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wave"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Asianization of Anthropology!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asianization"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/anthro"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/anthro"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/anthro1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/anthro2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/anthro1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="1. CULTURAL ANTHROPOLOGY!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cultural"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cultural1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cultural2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="2. LIGUISTIC!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/linguistic"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="3. BIOLOGICAL ANTHROPOLOGY"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bio"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="4. ARCHEOLOGY"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/archeology"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="METHODS THAT ARE USED BY ANTHROPOLOGIST"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="ETHNOGRAPHIC METHOD"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ethno"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="DESCRIPTIVE METHOD"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/des"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="HISTORICAL METHOD"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/his"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <Button
+            android:layout_width="98dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:text="Back"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:background="@drawable/custom_loginbutton"
+            android:onClick="btn_back"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

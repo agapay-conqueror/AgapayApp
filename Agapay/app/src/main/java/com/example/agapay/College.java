@@ -39,4 +39,12 @@ public class College extends AppCompatActivity {
     public void btn_sociology(View view) {
         startActivity(new Intent(getApplicationContext(),Sociology.class));
     }
+
+    public void btn_anthropology(View view) {
+        startActivity(new Intent(getApplicationContext(),Anthropology.class));
+    }
+
+    public void btn_socialwork(View view) {
+        startActivity(new Intent(getApplicationContext(),Socialwork.class));
+    }
 }
