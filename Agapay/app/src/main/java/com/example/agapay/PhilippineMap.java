@@ -2,9 +2,11 @@ package com.example.agapay;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
+import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
@@ -25,5 +27,9 @@ public class PhilippineMap extends AppCompatActivity {
         photoView.setImageResource(R.drawable.philippinesmap);
         photoView1.setImageResource(R.drawable.mayon);
 
+    }
+
+    public void btn_back(View view) {
+        startActivity(new Intent(getApplicationContext(),Home.class));
     }
 }

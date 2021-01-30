@@ -12,6 +12,337 @@
         android:orientation="vertical"
         android:padding="30dp">
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="VIDEOS ABOUT ARALING PANLIPUNAN/SOCIAL STUDIES!"
+            android:background="@drawable/custom_text2"
+            android:textColor="#fa8d0d"
+            android:textSize="15sp"
+            android:gravity="center"/>
+
+        <!--first video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:text="My family/Social Studies/Grade 1"
+            android:layout_marginTop="20dp"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="CzFp6JQhU6w"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--second video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Social Studies/Grade 1"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="um5T5o-oKRE"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--third video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Second Grade Social Studies - How to Read a Map"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="bAjOUOCIt1U"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--fourth video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Countries Of The World With Flags/Countries Of The World Song"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="rGcRe4lt4z4"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#064474"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="TAGALOG videos!"/>
+
+        <!--fifth video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="AP5 Unit 1 Aralin 1 - Pagtukoy sa Kinalalagya ng Pilipinas | Ang Globo at ang mga Imahinasyong Guhit"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="sa__8zUFCfo"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--fifth video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="ARALING PANLIPUNAN 2 | QUARTER 2 WEEK 5 | URI NG SINING AT PAGKAKAKILANLAN SA SARILING KOMUNIDAD"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="o50Gahx4lko"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--6th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Mga Direksyon -Araling Panlipunan 3"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="mzGK6JWx8nI"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--6th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Konsepto ng Komunidad (Ang Aking Komunidad)"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="qy0bMJVEMJ4"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--7th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Araling Panlipunan Grade 6 | Mga Uri ng Pamahalaan at Patakarang Ipinatupad sa Panahon ng Amerikano"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="CBAA22bW0Vk"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--8th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Araling Panlipunan 2 Mga Bumubuo sa Komunidad"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="k_W49DSZyVs"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--9th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Impluwensiya ng mga Kaisipang Asyano sa Kalagayang Panlipunan (AP 7)"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="vCNcELmOQP0"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--10th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Araling Panlipunan 4: Gawaing Nagsusulong ng Likas Kayang Pag-unlad ng mga Likas na Yaman ng Bansa"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="z10H7tHWoFc"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--11th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Araling Panlipunan 4 Weeks 5-6 | Likas Kayang Pag-unlad"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="y0YpiTdRi8o"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--12th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Araling Panlipunan 6 Quarter 2 Week 4 | Ang Resulta ng Pananakop ng mga Amerikano"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="sHVgwUW2K_E"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <!--13th video-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/custom_text"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="ARALING PANLIPUNAN 3 | SIMBOLO AT SAGISAG NA NAGPAPAKILALA NG IBA'T-IBANG LALAWIGAN SA REHIYON | 4-5"/>
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="b_1mFAxKe_8"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="98dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:text="Back"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:background="@drawable/custom_loginbutton"
+            android:onClick="btn_back"/>
+
+
+
     </LinearLayout>
 
 </ScrollView>

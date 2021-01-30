@@ -71,6 +71,16 @@
             android:onClick="btn_socialwork"/>
 
         <Button
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:text="DEVELOPMENT STUDIES"
+            android:background="@drawable/custom_button"
+            android:layout_marginTop="30dp"
+            android:textColor="#064474"
+            android:textSize="20sp"
+            android:onClick="btn_development"/>
+
+        <Button
             android:layout_width="98dp"
             android:layout_height="37dp"
             android:layout_gravity="end"
