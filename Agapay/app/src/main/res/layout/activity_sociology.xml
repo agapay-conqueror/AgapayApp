@@ -13,6 +13,373 @@
         android:orientation="vertical"
         android:padding="30dp">
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Sociology!"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/sociology"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sociology"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Sociology subject matter!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/matter"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/matter"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/matter1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <!--codes for roles-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="The roles we play!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/status"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/roles"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/roles1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <!--codes for hierarchy-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="The roles we play!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/hierarchy"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hierarchy"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hierarchy1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hierarchy2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hierarchy3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <!--codes for rules, norms and values-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Rules, Norms and Values!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/values"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/norms"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rules"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/deviance"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <!--codes for rehabilitation-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Rehabilitation!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/rehabilitaion"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rehabilitation"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rehabilitation1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <!--codes for NEO-MARXISM-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Neo-Marxism!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/neo"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/neo"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/neo1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/neo2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/neo3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Feminist theory!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/feminist"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/feminist1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/feminist2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Marxian Feminism!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/marxian"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/marxian1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="Radical Feminism!"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/radical"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/radical1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/socialist"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+
+        <Button
+            android:layout_width="98dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:text="Back"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:textColor="#064474"
+            android:background="@drawable/custom_loginbutton"
+            android:onClick="btn_back"/>
+
+
+
+
     </LinearLayout>
 
 </ScrollView>

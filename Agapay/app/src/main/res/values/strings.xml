@@ -984,4 +984,110 @@ smallest unit of the local government. </string>
         proclamation, order, instruction, ordinance or regulation unconstitutional.
     </string>
 
+    <!--codes for SOCIOLOGY topic college-->
+    <string name="sociology">- Sociology is the study of human social relationships and
+        institutions. Sociology’s subject matter is diverse, ranging from crime to
+        religion, from the family to the state, from the divisions of race and
+        social class to the shared beliefs of a common culture, and from social
+        stability to radical change in whole societies. Unifying the study of
+        these diverse subjects of study is sociology’s purpose of understanding
+        how human action and consciousness both shape and are shaped by surrounding
+        cultural and social structures.</string>
+
+    <string name="matter">- Sociologists investigate the structure of groups,
+        organizations, and societies, and how people interact within these contexts.
+    </string>
+
+    <string name="matter1">- All human behavior is social so the subject matter of
+        sociology ranges from the intimate family to the hostile mob; from organized
+        crime to religious cults; from the divisions of race, gender and social class to
+        the shared beliefs of a common culture; and from the sociology of work to the
+        sociology of sports.</string>
+
+    <!--codes for roles in society college)-->
+
+    <string name="roles">- We all play certain roles in our society- Social Scientists
+        refer to this as status.</string>
+
+    <string name="roles1">- STATUS, is the term used to describe our position within
+        an institution.</string>
+
+    <string name="hierarchy">- HIERARCHY, is the ranking system used in any particular
+        environment based on authority or power.</string>
+
+    <string name="hierarchy1">- Each position or role requires a certain type of expertise
+        which is valued by society.</string>
+
+    <string name="hierarchy2">- In order to distinguish between these rolees people
+        are expected to dress and act in a certain way.</string>
+
+    <string name="hierarchy3">- On any given day we can play many different roles in society.</string>
+
+    <!--codes for rules, norms and values-->
+    <string name="values">- VALUES, Society carries with it a system of values. A
+        particular set of values are assigned to each role. The practitioners of these
+        roles are expected to accept and internalize these values.</string>
+
+    <string name="norms">- NORMS, These are rules set out for a particular role
+        that are considered standard behaviour (eg. Catholic Priests are expected
+        to be celibate).</string>
+
+    <string name="rules">- RULES, These are developed by cultures based on their system
+        of values.</string>
+
+    <string name="deviance">- DEVIANCE, Any behaviour that is different from the
+        societal norm. It is deviant because we, as a society, do not accept it. Deviance
+        can range from simple eccentricities to behaviour that harms society or is
+        considered disreputable.</string>
+
+    <!--codes for rehabilitation-->
+    <string name="rehabilitation">- Sociology has formed a strong link with the justice system.
+    </string>
+
+    <string name="rehabilitation1">- A fundamental component of modern imprisonment is
+        rehabilitation, or trying to re-educate and resocialize inmates so that they can grow
+        to accept society\'s values and norms.</string>
+
+    <string name="neo">- Based on ideas originally proposed by Karl Marx (1818-1883).</string>
+    <string name="neo1">- Marx believed that economic power led to political
+        power. This is the key to understanding societies.</string>
+    <string name="neo2">- The struggle for economic power means that society is not
+        static but ever-changing - social change is the result of a change made to the
+        economic system.</string>
+    <string name="neo3">- Neo-Marxists believe the economic system creates a rich class
+        of owners and a poor class of workers.</string>
+
+    <string name="feminist">- Feminist Theory, focus on sex and gender issues,
+        believing that women have traditionally been disadvantaged in societty because
+        men have discriminated against them.</string>
+
+    <string name="feminist1">- They believe that men ,have made the decisions in society
+        and that they tend to favour men.</string>
+
+    <string name="feminist2">- LIBERAL FEMINISM, Liberal (or BOURGEOIS) Feminism, in
+        which the claim of women for equal rights is seen in the context of a general
+        opposition to various forms of oppression and discrimination, independently of
+        other political convictions. Liberal feminism tends to emphasise social policy to
+        open up professional, better-paid and pretigious jobs to women and the elimination
+        of laws discriminating against the political, property and social right of women
+        (encyclopedia of Mrxism).</string>
+
+    <string name="marxian">- They believe that women\'s unpaid and undervalued
+        domestic work has made it possible for undustrial owners to pay lower wages
+        to male workers.</string>
+
+    <string name="marxian1">- They also believe that the continuation of lower paid
+        jobs has enabled the dominant class (the capitalists) to retains their control.</string>
+
+    <string name="radical">- They believe that their natural childd bearing role has
+        to a systematic oppression by men.</string>
+
+    <string name="radical1">- They believe they live in patriarchal society in which men
+        dominate most of the institutions and are so entrenched that women cannot
+        break in to these fields.</string>
+
+    <string name="socialist">- SOCIALIST FEMINISM, try to separate issues of oppression
+        that are the result of patriarchy which is a result of capitalism.</string>
+
+
 </resources>
