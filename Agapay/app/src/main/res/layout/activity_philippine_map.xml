@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/custom_edittext"
             android:text="@string/Philippines"
-            android:textColor="#064474"
+            android:textColor="#fff"
             android:textSize="20sp"
             android:padding="9dp"/>
 
@@ -79,7 +79,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/custom_edittext"
             android:text="@string/Area"
-            android:textColor="#064474"
+            android:textColor="#fff"
             android:textSize="20sp"
             android:padding="9dp"/>
 
@@ -98,7 +98,7 @@
             android:background="@drawable/custom_edittext"
             android:text="@string/Population"
             android:textSize="20sp"
-            android:textColor="#064474"
+            android:textColor="#fff"
             android:padding="9dp"/>
 
         <com.github.chrisbanes.photoview.PhotoView
