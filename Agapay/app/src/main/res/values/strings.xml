@@ -859,4 +859,129 @@
     <string name="climate3">- Scientists warned the Philippines could experience famine by 2020, as the
         adverse impact of global warming takes its toll on natural resources. Thousands will be
         displaced from their homes especially in low-lying coastal communities. </string>
+
+    <string name="waste">- The Philippines is looming with
+        garbage problems despite the passage
+        of the Ecological Solid Waste
+        Management Act or the Republic Act
+        (RA) 9003.</string>
+
+    <string name="waste1">- 2007 first quarter data from the
+        National Solid Waste Management
+        Commission shows that there are 677
+        open dumpsites, 343 controlled dumps,
+        and 21 landfills in the country. An
+        additional 307 dump sites are subject for
+        closure or rehabilitation plans but without
+        definite schedules for enforcement. About 215 additional landfills are being proposed to
+        be set up nationwide.</string>
+
+    <string name="waste2">-Environmentalists stress that Republic Act 9003 calls for the adoption of the best
+        environmental practices in ecological waste management and explicitly excludes waste
+        incineration as an ecological option. These polluting disposal facilities are major sources
+        of greenhouse gas emissions to the atmosphere which adds to global warming.
+        Landfills and open dumps, according to studies, account for 34 percent of humanrelated methane emissions to the atmosphere, a global warming gas that has 23 times
+        more heat-trapping power than carbon dioxide. These landfills and open dumps are
+        illegal under RA 9003.  </string>
+
+    <string name="people">- Behavior is a key cultural aspect that is embedded in people’s way of life.
+Studying a community’s behavior and introducing new ones requires intensive, longterm, and creative social marketing. This can be done by studying the demographic and
+cultural fiber of the community through immersions and capacity building activities.</string>
+
+
+    <string name="people1">- The Resources, Environment and Economics Center for Studies, Inc.’s (REECS)
+2002 study on household waste management systems and the attitudes and behavior
+showed that:
+</string>
+
+    <string name="people2">- Recognizing the importance of the environment’s immediate recovery and effects
+of improper waste management to the Philippines, there is a need for understanding
+and reformation of attitudes and concern towards the protection of environment. The
+impending garbage crisis can be prevented if we only practice waste segregation at
+source, recycling, and composting as what the law requires. An intensive social
+marketing program has to be established on a long-term scale within a barangay – the
+smallest unit of the local government. </string>
+
+    <string name="politics">POLITICS (from greek POLITIKA, \'affairs of the cities\')
+        is the set of activities that are associated with making decisions in groups, or
+        other forms of power relations, between individuals, such as the distribution
+        of resources or status.</string>
+
+    <string name="politics1">The Philippines is a republic with a presidential
+        form of government wherein power is equally divided among its three
+        branches: executive, legislative, and judicial. The government seeks
+        to act in the best interests of its citizens through this system of
+        check and balance.</string>
+
+    <string name="gov">- The Philippines is a republic with a presidential form of
+        government wherein power is equally divided among its three branches:
+        executive, legislative, and judicial. The government seeks to act in the
+        best interests of its citizens through this system of check and balance.
+    </string>
+
+    <string name="gov1">- One basic corollary in a presidential system of
+        government is the principle of separation of powers wherein legislation
+        belongs to Congress, execution to the Executive, and settlement of legal
+        controversies to the Judiciary.</string>
+
+    <string name="legislative">- is authorized to make laws, alter, and repeal them
+        through the power vested in the Philippine Congress. This institution is
+        divided into the Senate and the House of Representatives.</string>
+    <string name="legislative1">- The Legislative Branch enacts legislation, confirms
+        or rejects Presidential appointments, and has the authority to declare
+        war. This branch includes Congress (the Senate and House of Representatives)
+        and several agencies that provide support services to Congress.</string>
+    <string name="legislative2">- The Senate is composed of 24 Senators who are elected
+        at large by the qualified voters of the Philippines.</string>
+    <string name="legislative3">- The House of Representatives is composed of about 250
+        members elected from legislative districts in the provinces, cities, and
+        municipalities, and representatives elected through a party-list system
+        of registered national, regional, and sectoral parties or organizations.
+    </string>
+    <string name="legislative4">- The party-list representatives shall constitute twenty
+        per cent of the total number of representatives including those under the party
+        list. For three consecutive terms after the ratification of this Constitution,
+        one-half of the seats allocated to party-list representatives shall be filled,
+        as provided by law, by selection or election from the labor, peasant, urban
+        poor, indigenous cultural communities, women, youth, and such other sectors
+        as may be provided by law, except the religious sector.</string>
+
+    <string name="executive">- The Executive branch is composed of the President and the
+        Vice President who are elected by direct popular vote and serve a term of
+        six years. The Constitution grants the President authority to appoint his
+        Cabinet. These departments form a large portion of the country’s
+        bureaucracy.</string>
+    <string name="executive1">- The executive branch carries out and enforces
+        laws. It includes the President, Vice President, the Cabinet, executive
+        departments, independent agencies, boards, commissions, and committees.
+    </string>
+    <string name="executive2">- The President leads the country. He or she is the
+        head of state, leader of the national government, and Commander-in-Chief
+        of all armed forces of the Philippines. The President serves a six-year
+        term and cannot be re-elected.</string>
+    <string name="executive3">- The Vice President supports the President. If
+        the President is unable to serve, the Vice President becomes President.
+        He or she also serves a six-year term.</string>
+    <string name="executive4">- Cabinet members serve as advisors to the President.
+        They include the Vice President and the heads of executive departments.
+        Cabinet members are nominated by the President and must be confirmed by
+        the Commission of Appointments.</string>
+
+    <string name="judiciary">- The Judicial branch holds the power to settle
+        controversies involving rights that are legally demandable and enforceable.
+        This branch determines whether or not there has been a grave abuse of
+        discretion amounting to lack or excess of jurisdiction on the part and
+        instrumentality of the government. It is made up of a Supreme Court and
+        lower courts.</string>
+    <string name="judiciary1">- The judicial branch interprets the meaning of laws,
+        applies laws to individual cases, and decides if laws violate the
+        Constitution. The judicial power shall be vested in one Supreme Court
+        and in such lower courts as may be established by law.</string>
+
+    <string name="extra">- The Constitution expressly grants the Supreme Court
+        the power of Judicial Review as the power to declare a treaty,
+        international or executive agreement, law, presidential decree,
+        proclamation, order, instruction, ordinance or regulation unconstitutional.
+    </string>
+
 </resources>

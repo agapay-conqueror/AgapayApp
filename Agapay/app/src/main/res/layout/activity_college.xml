@@ -3,12 +3,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Topics"
+        tools:context=".College"
         android:orientation="vertical"
         android:padding="30dp">
 
@@ -20,51 +21,45 @@
             android:layout_gravity="right"
             android:id="@+id/btn_help"/>
 
-
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Topics for COLLEGE!"
+            android:textColor="#064474"
+            android:fontFamily="monospace"
+            android:textSize="25sp"
+            android:gravity="center"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:text="ELEMENTARY"
+            android:text="POLITICS"
             android:background="@drawable/custom_button"
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="30dp"
             android:textColor="#064474"
             android:textSize="25sp"
-            android:onClick="btn_elementary"/>
+            android:onClick="btn_politics"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:text="HIGHSCHOOL"
+            android:text="SOCIOLOGY"
             android:background="@drawable/custom_button"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="30dp"
             android:textColor="#064474"
             android:textSize="25sp"
-            android:onClick="btn_highshcool"/>
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="90dp"
-            android:text="COLLEGE"
-            android:background="@drawable/custom_button"
-            android:layout_marginTop="10dp"
-            android:textColor="#064474"
-            android:textSize="30sp"
-            android:onClick="btn_college"/>
+            android:onClick="btn_sociology"/>
 
         <Button
             android:layout_width="98dp"
             android:layout_height="37dp"
-            android:layout_gravity="right"
+            android:layout_gravity="end"
             android:text="Back"
             android:layout_marginTop="20dp"
             android:fontFamily="monospace"
             android:textColor="#064474"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_back"/>
-
-
-
     </LinearLayout>
 
 </ScrollView>

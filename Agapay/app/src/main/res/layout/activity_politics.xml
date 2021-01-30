@@ -9,7 +9,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Contemporaryissue"
+        tools:context=".Politics"
         android:orientation="vertical"
         android:padding="30dp">
 
@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="Contemporary Issue!"
+            android:text="Politics!"
             android:textSize="25sp"
             android:gravity="center"
             android:textColor="#fa8d0d"/>
@@ -26,12 +26,12 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/issue"/>
+            android:id="@+id/politics"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/issue"
+            android:text="@string/politics"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -39,45 +39,30 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#064474"
-            android:textSize="20sp"
-            android:layout_marginTop="10dp"
-            android:text="MAJOR ENVIRONMENTAL, SOCIAL AND ECONOMIC ISSUES"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#064474"
-            android:textSize="20sp"
-            android:layout_marginTop="10dp"
-            android:text="A. Environmental Problems "/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/environmental"
+            android:text="@string/politics1"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/politics1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:textColor="#fa8d0d"
+            android:text="About The Government!"
             android:textSize="20sp"
-            android:text="Climate Change and the Philippines"/>
-
-        <com.github.chrisbanes.photoview.PhotoView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:id="@+id/climate"/>
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/climate"
+            android:text="@string/gov"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -85,200 +70,145 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/climate1"
+            android:text="@string/gov1"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/climate2"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/climate3"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <!--codes for waste problem-->
+        <!--codes for legislative-->
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:textColor="#fa8d0d"
+            android:text="LEGISLATIVE BRANCH!"
             android:textSize="20sp"
-            android:text="Alarming Waste Problem in the Philippines "/>
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/waste"/>
+            android:id="@+id/legislative"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/waste"
+            android:text="@string/legislative"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
-
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/waste1"
+            android:text="@string/legislative1"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
-
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/waste2"
+            android:text="@string/legislative2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/legislative3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/legislative4"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
 
-
-        <!--codes for People's behavior-->
+        <!--codes for legislative-->
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:textColor="#fa8d0d"
+            android:text="EXECUTIVE BRANCH!"
             android:textSize="20sp"
-            android:text="People’s Behavior towards Waste "/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/people"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/people1"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="1. Waste management is still perceived by many as the responsibility of
-government"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="2. Public participation in waste management, especially in segregation at
-source, remains limited"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="3. More extensive awareness- raising activities and training on ecological
-waste management are needed, together with stricter enforcement of
-the Law and local ordinances must be observed. "
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="4. There is lack of community empowerment and political will to resolve
-the problem."
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/people2"
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <!--codes for economic problem-->
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#064474"
-            android:textSize="20sp"
-            android:layout_marginTop="10dp"
-            android:text="B. Economic Problem "/>
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/econ"/>
+            android:id="@+id/executive"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- high population growth"
+            android:text="@string/executive"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/executive1"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/executive2"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/executive3"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/executive4"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="- unequal distribution of wealth "
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
+        <!--codes for executivejudiciary-->
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="- poor performance of the agriculture sector of the economy."
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <!--codes for social problem-->
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#064474"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_text2"
+            android:text="JUDICIARY BRANCH!"
             android:textSize="20sp"
-            android:layout_marginTop="10dp"
-            android:text="C. Social Problems"/>
+            android:gravity="center"
+            android:textColor="#fa8d0d"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="10dp"
-            android:id="@+id/social"/>
+            android:id="@+id/judiciary"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- Corruption"
+            android:text="@string/judiciary"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:textColor="#064474"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/judiciary1"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -286,16 +216,7 @@ the problem."
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- Poverty "
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="- Overpopulation ."
+            android:text="Each branch of government can change acts of the other branches as follows:"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -303,7 +224,7 @@ the problem."
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- Child labor (a form of child abuse) ."
+            android:text="- The President can veto laws passed by Congress."
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -311,7 +232,9 @@ the problem."
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- Lack of adequate health care services "
+            android:text="- Congress confirms or rejects the President's
+               appointments and can remove the President from office in
+               exceptional circumstances."
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -319,7 +242,8 @@ the problem."
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- Terrorism"
+            android:text="- The Justices of the Supreme Court,
+                who can overturn unconstitutional laws, are appointed by the President. "
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -327,15 +251,7 @@ the problem."
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="- Prostitution "
-            android:layout_marginTop="10dp"
-            android:textSize="17sp"
-            android:textColor="#064474"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="- Unemployment "
+            android:text="@string/extra"
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
@@ -350,7 +266,6 @@ the problem."
             android:textColor="#064474"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_back"/>
-
 
 
 
