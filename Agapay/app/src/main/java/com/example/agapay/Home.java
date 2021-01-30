@@ -15,11 +15,22 @@ import static android.widget.Toast.*;
 
 public class Home extends AppCompatActivity {
     private ImageButton button;
+    Button logout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+        logout=findViewById(R.id.logout);
+        logout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(Home.this,Login_form.class);
+                startActivity(intent);
+                finish();
+                makeText(Home.this, "Successfully Logout", LENGTH_SHORT).show();
+            }
+        });
 
         button = (ImageButton) findViewById(R.id.btn_help);
         button.setOnClickListener(new View.OnClickListener(){

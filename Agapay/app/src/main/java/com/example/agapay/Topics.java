@@ -45,4 +45,8 @@ public class Topics extends AppCompatActivity {
     public void btn_college(View view) {
         startActivity(new Intent(getApplicationContext(),College.class));
     }
+
+    public void btn_home(View view) {
+        startActivity(new Intent(getApplicationContext(),Home.class));
+    }
 }

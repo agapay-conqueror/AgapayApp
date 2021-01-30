@@ -33,4 +33,8 @@ public class Socialwork extends AppCompatActivity {
     public void btn_back(View view) {
         startActivity(new Intent(getApplicationContext(),College.class));
     }
+
+    public void btn_home(View view) {
+        startActivity(new Intent(getApplicationContext(),Topics.class));
+    }
 }

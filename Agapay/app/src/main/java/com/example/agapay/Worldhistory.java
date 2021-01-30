@@ -27,4 +27,8 @@ public class Worldhistory extends AppCompatActivity {
     public void btn_back(View view) {
         startActivity(new Intent(getApplicationContext(),Highschool.class));
     }
+
+    public void btn_home(View view) {
+        startActivity(new Intent(getApplicationContext(),Topics.class));
+    }
 }

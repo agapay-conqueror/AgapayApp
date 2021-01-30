@@ -110,4 +110,9 @@ public class Landforms extends AppCompatActivity {
     public void btn_back(View view) {
         startActivity(new Intent(getApplicationContext(),Elementary.class));
     }
+
+
+    public void btn_home(View view) {
+        startActivity(new Intent(getApplicationContext(),Topics.class));
+    }
 }

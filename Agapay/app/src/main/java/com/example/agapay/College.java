@@ -51,4 +51,8 @@ public class College extends AppCompatActivity {
     public void btn_development(View view) {
         startActivity(new Intent(getApplicationContext(),Developmentstudies.class));
     }
+
+    public void btn_home(View view) {
+        startActivity(new Intent(getApplicationContext(),Home.class));
+    }
 }

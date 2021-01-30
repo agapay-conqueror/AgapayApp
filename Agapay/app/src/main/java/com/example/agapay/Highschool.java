@@ -48,4 +48,8 @@ public class Highschool extends AppCompatActivity {
     public void btn_contemporary(View view) {
         startActivity(new Intent(getApplicationContext(),Contemporaryissue.class));
     }
+
+    public void btn_home(View view) {
+        startActivity(new Intent(getApplicationContext(),Home.class));
+    }
 }
