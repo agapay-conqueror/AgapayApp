@@ -37,4 +37,8 @@ public class Nationalism extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizNationalism(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizNationalism.class));
+    }
 }

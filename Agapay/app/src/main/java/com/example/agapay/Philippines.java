@@ -41,4 +41,8 @@ public class Philippines extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizPhilippines(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizPhilippines.class));
+    }
 }

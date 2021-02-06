@@ -31,4 +31,8 @@ public class Population extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizPopulation(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizPopulation.class));
+    }
 }

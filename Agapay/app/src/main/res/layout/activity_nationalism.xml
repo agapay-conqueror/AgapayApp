@@ -200,6 +200,16 @@
             android:layout_marginTop="10dp"
             android:textColor="#064474"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Take a quiz!"
+            android:background="@drawable/custom_text"
+            android:textSize="20sp"
+            android:textColor="#064474"
+            android:onClick="btn_QuizNationalism"/>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"

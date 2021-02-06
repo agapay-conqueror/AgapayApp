@@ -31,25 +31,22 @@
 
         <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:src="@drawable/buttontopics"
             android:onClick="btn_topics"
-            android:background="@drawable/custom_button"
             android:layout_marginTop="20dp"/>
 
         <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:src="@drawable/buttonphmap"
             android:onClick="btn_phMap"
-            android:background="@drawable/custom_button"
             android:layout_marginTop="10dp"/>
 
         <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:src="@drawable/buttonvideos"
-            android:background="@drawable/custom_button"
             android:onClick="btn_videos"
             android:layout_marginTop="10dp"/>
 

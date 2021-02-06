@@ -1,5 +1,6 @@
 package com.example.agapay;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
@@ -8,29 +9,32 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 public class ResultQuiz extends AppCompatActivity {
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result_quiz);
         TextView resultLabel =  (TextView) findViewById(R.id.resultLabel);
-        TextView totalScoreLabel = (TextView) findViewById(R.id.totalScoreLabel);
 
         int score = getIntent().getIntExtra("RIGHT_ANSWER_COUNT", 0);
 
-        SharedPreferences settings = getSharedPreferences("quizApp", Context.MODE_PRIVATE);
-        int totalScore = settings.getInt("totalScore", 0);
-        totalScore += score;
+
+
 
         resultLabel.setText(score + " / 10");
-        totalScoreLabel.setText("Total Score : " + totalScore);
 
-        //update total score;.
-        SharedPreferences.Editor editor = settings.edit();
-        editor.putInt("totalScore", + totalScore);
-        editor.commit();
     }
 
     public void btn_Tryagain(View view) {
