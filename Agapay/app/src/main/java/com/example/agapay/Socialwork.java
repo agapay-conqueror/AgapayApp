@@ -37,4 +37,8 @@ public class Socialwork extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizSocialwork(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizSocialwork.class));
+    }
 }

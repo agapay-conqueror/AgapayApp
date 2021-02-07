@@ -29,4 +29,8 @@ public class Economics extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizEconomics(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizEconomics.class));
+    }
 }

@@ -37,4 +37,8 @@ public class Sociology extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizSociology(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizSociology.class));
+    }
 }

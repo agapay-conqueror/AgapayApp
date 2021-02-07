@@ -139,7 +139,7 @@
 
     <string name="volcano2">- There are 53 active volcanoes in the Philippines. The
         Philippines belong to the Pacific Ring of Fire where the oceanic Philippine plate
-        and several smaller microplates are subducting along the Philippines Trench
+        and several smaller micro-plates are sub-ducting along the Philippines Trench
         to the E, and the Luzon, Sulu and several other small Trenches to the W.</string>
 
     <string name="volcano3">According to the Philippine Institute of Volcanology and Seismology
@@ -227,7 +227,7 @@
         as a Nature Park.</string>
 
     <string name="lignon1">- Lignon hill is a prehistoric cinder cone near the foot
-        of Mayon, ssome 12 kilometers south-southeast of the volcano\'s summit. It is
+        of Mayon, some 12 kilometers south-southeast of the volcano\'s summit. It is
         mainly composed of dolerite and basaltic volcanic rocks. Except for Mayon
         Volcano, it is the highest point in the city situated next to the Legazpi
         Airport in barangay 41 (Bogtong) near the city\'s border with the municipality
@@ -271,7 +271,7 @@
         Cagayan River, the longest in the country.</string>
 
     <string name="central">- It is the longest and largest mountain range in the island
-        of Panay and Western Visayas in the Philippines. With a total lenght of 170 km (105 miles)
+        of Panay and Western Visayas in the Philippines. With a total length of 170 km (105 miles)
         long north-south and 34 km (21 miles) width east-west. It is famous for its
         diverse flora and fauna. Located through the western Panay, started from Ibajay, Aklan
         to the north and Aniniy, Antique southern tip to the south.</string>
@@ -339,7 +339,7 @@
         as of Thursday, January 28, 2021, based on Worldometer elaboration of the
         latest United Nations data.</string>
 
-    <string name="ph1">- The Philippines 2020 poulation is estimated at 109,581,078
+    <string name="ph1">- The Philippines 2020 population is estimated at 109,581,078
         people at mid year according to UN data.</string>
 
     <string name="ph2">- The Philippines population is equavalent to 1.41% of
@@ -362,7 +362,7 @@
         very high, its industrialization is minimal, and many of its citizens lack
         access to quality health care and higher education.</string>
 
-    <string name="pdc1">As of 2016, per capita GDP in the Philippines is $7,358, well below
+    <string name="pdc1">As of 2016, per capital GDP in the Philippines is $7,358, well below
         any accepted minimum for developed country status. The country\'s latest HDI is
         0.66. Its infant mortality rate 22 per 1,000 live births and its life expectancy
         is 69 years.</string>
@@ -880,8 +880,8 @@
         environmental practices in ecological waste management and explicitly excludes waste
         incineration as an ecological option. These polluting disposal facilities are major sources
         of greenhouse gas emissions to the atmosphere which adds to global warming.
-        Landfills and open dumps, according to studies, account for 34 percent of humanrelated methane emissions to the atmosphere, a global warming gas that has 23 times
-        more heat-trapping power than carbon dioxide. These landfills and open dumps are
+        Landfills and open dumps, according to studies, account for 34 percent of human related methane emissions to the atmosphere,
+        a global warming gas that has 23 times more heat-trapping power than carbon dioxide. These landfills and open dumps are
         illegal under RA 9003.  </string>
 
     <string name="people">- Behavior is a key cultural aspect that is embedded in people’s way of life.
@@ -1018,7 +1018,7 @@ smallest unit of the local government. </string>
     <string name="hierarchy1">- Each position or role requires a certain type of expertise
         which is valued by society.</string>
 
-    <string name="hierarchy2">- In order to distinguish between these rolees people
+    <string name="hierarchy2">- In order to distinguish between these roles people
         are expected to dress and act in a certain way.</string>
 
     <string name="hierarchy3">- On any given day we can play many different roles in society.</string>
@@ -1045,7 +1045,7 @@ smallest unit of the local government. </string>
     </string>
 
     <string name="rehabilitation1">- A fundamental component of modern imprisonment is
-        rehabilitation, or trying to re-educate and resocialize inmates so that they can grow
+        rehabilitation, or trying to re-educate and re-socialize inmates so that they can grow
         to accept society\'s values and norms.</string>
 
     <string name="neo">- Based on ideas originally proposed by Karl Marx (1818-1883).</string>
@@ -1070,10 +1070,10 @@ smallest unit of the local government. </string>
         other political convictions. Liberal feminism tends to emphasise social policy to
         open up professional, better-paid and pretigious jobs to women and the elimination
         of laws discriminating against the political, property and social right of women
-        (encyclopedia of Mrxism).</string>
+        (encyclopedia of Marxism).</string>
 
     <string name="marxian">- They believe that women\'s unpaid and undervalued
-        domestic work has made it possible for undustrial owners to pay lower wages
+        domestic work has made it possible for industrial owners to pay lower wages
         to male workers.</string>
 
     <string name="marxian1">- They also believe that the continuation of lower paid
@@ -1110,7 +1110,7 @@ smallest unit of the local government. </string>
     <string name="beyer2">- The Philippine Saga: A Pictorial History of the Archipelago since
             Time Began (1947, with Jaime C. De Veyra)</string>
     <string name="wave">- First came the Java Man, and then the (little people), Australoid
-        Sakai, Negritos, and Proto-Malays-follwed by two waves of Indonesian, Type A and Type B,
+        Sakai, Negritos, and Proto-Malays-followed by two waves of Indonesian, Type A and Type B,
         with a smaller wave of Papuans, who were succeeded in turn by separate
         Northern and Southern Malay waves, and finally the Jar Burial People.</string>
 
@@ -1121,7 +1121,7 @@ smallest unit of the local government. </string>
     <string name="anthro">- The term ANTHROPOLOGY comes from the Greek ANTHROPOS for (man,
         human), and LOGOS for (study). It is simply the study of mankind. Anthropology is
         a broad and varied discipline for it covers physical anthropology, archaeology, culture,
-        history, social liguistics, social and cultural anthropology. Anthropology, is
+        history, social linguistics, social and cultural anthropology. Anthropology, is
         science that deals with the origins, physical and cultural development, social
         characteristics, social customs and beliefs of human.</string>
 
@@ -1143,14 +1143,14 @@ smallest unit of the local government. </string>
         symbols, enculturation and socialization. Culture is learned, shared and
         transmitted independently of genetic inheritance.</string>
 
-    <string name="cultural2">- CCULTURAL ANTHROPOLOGIST, are also called ethnologist or
+    <string name="cultural2">- CULTURAL ANTHROPOLOGIST, are also called ethnologist or
         ethnographers. They describe, analyze and the customs, folkways. mores and forms
         of social life human beings, particularly of ethnic groups and people with indigenous
-        and primitivw way of life.</string>
+        and primitive way of life.</string>
 
     <string name="linguistic">- Is another branch of anthropology which refers to the
         systematic study of recorder and unrecorded languages all over the world. It
-        alsi deals how culture affetcts language, and vice versa. The anthropological linguist
+        also deals how culture affects language, and vice versa. The anthropological linguist
         are interested primarily in the history and structure of unwritten languages.</string>
 
     <string name="bio">- also known as PHYSICAL ANTHROPOLOGY, is a scientific discipline
@@ -1163,15 +1163,15 @@ smallest unit of the local government. </string>
         times, that is millions of years ago, before written records. It is concerned
         with the study of documentary materials like fossils and artifacts.</string>
 
-    <string name="ethno">- The participant researcher mainly conducts first ahnd observation
+    <string name="ethno">- The participant researcher mainly conducts first and observation
         and immersion in human activities in a particular socio-cultural setting for the purpose
         of gaining an up-close and personal familiarity and understanding of the subjects being
         studied.</string>
 
     <string name="des">- The method mainly involves the systematic collection and
         analytical processing of statistical data by conducting a survey or a sample
-        size of repondents in order to accurately describe a present existing
-        socio-cultural conditon or situation.</string>
+        size of respondents in order to accurately describe a present existing
+        socio-cultural condition or situation.</string>
 
     <string name="his">- It entails the reconstruction of events by piecing together evidences
         of the past and examining reliable records in order to trace and explain the
@@ -1179,7 +1179,7 @@ smallest unit of the local government. </string>
 
     <string name="social">- SOCIAL WORK as a professional activity of helping individuals,
         group, or communities enhance or restore their capacity for social functioning and creating
-        societal conditons favorable to the goal.</string>
+        societal conditions favorable to the goal.</string>
 
     <string name="social1">- Social work as a field within human services and a part of
         services of the government. It considers social work as an important service to the society
@@ -1192,7 +1192,7 @@ smallest unit of the local government. </string>
 
     <string name="social3">- Social work as an APPLIED SOCIAL SCIENCE of helping people
         achieve an effective level of psychosocial functioning and effecting societal
-        changes to enhace the well being of people</string>
+        changes to enhance the well being of people</string>
 
     <string name="subs">- Substance abuse social workers work in hospitals and
         rehabilitation facilities to assist those struggling with addiction,
@@ -1233,8 +1233,8 @@ smallest unit of the local government. </string>
         members to know where to turn after hospitalization. That’s where a
         psychiatric social worker can help.</string>
 
-    <string name="hea">- Healthcare social workers are found within the
-        healthcare industry and help patients navigate the emotional,
+    <string name="hea">- Health care social workers are found within the
+        health care industry and help patients navigate the emotional,
         physical and financial hardships associated with serious medical
         conditions. Patients that are in and out of hospitals with chronic
         or terminal medical conditions may be overwhelmed with turmoil.
@@ -1243,7 +1243,7 @@ smallest unit of the local government. </string>
         They may need financial guidance or connections with religious leaders
         in the area.</string>
 
-    <string name="mod">- MODERNIZATION, isa an encompassing process of massive social
+    <string name="mod">- MODERNIZATION, is an encompassing process of massive social
         changes, than once set in motion tend to penetrate all domain of social life,
         from economic activities to social life, to political institutions, in a self
         reinforcing process</string>
@@ -1253,14 +1253,14 @@ smallest unit of the local government. </string>
         procurement of goods, rather than man and his own ingenuity. The norms of economic
         growth are completely absent from these societies.</string>
 
-    <string name="precon">- These are, to Rostow that the society begins committing itself to
-        secular education, that it enables a degree of capoital mobilization, specially
+    <string name="precon">- The society begins committing itself to
+        secular education, that it enables a degree of capital mobilization, specially
         through the establishment of banks and currency, that an entrepreneurial class
         form, and that the secular concept of manufacturing develops, with only a few
-        sectores developing at this point. This leads to a take off in ten fifty years.</string>
+        sectors developing at this point. This leads to a take off in ten fifty years.</string>
 
     <string name="the">- Take off then occurs when sector led growth becomes common and society
-        is driven more by economic processes that traditons. At this point. the norms of
+        is driven more by economic processes that traditions. At this point. the norms of
         economic growth are well established.</string>
 
     <string name="dri">- The drive to maturity refers to the need for the economy itself

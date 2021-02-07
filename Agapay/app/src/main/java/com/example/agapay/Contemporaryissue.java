@@ -35,4 +35,8 @@ public class Contemporaryissue extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizContemporaryissue(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizContemporaryissue.class));
+    }
 }

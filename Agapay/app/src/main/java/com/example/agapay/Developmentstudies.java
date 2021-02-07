@@ -29,4 +29,8 @@ public class Developmentstudies extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizDevelopmentstudies(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizDevelopmentstudies.class));
+    }
 }

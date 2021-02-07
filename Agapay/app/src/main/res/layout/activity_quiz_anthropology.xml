@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizAnthropology"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_marginBottom="40dp">
+
+        <TextView
+            android:id="@+id/countLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Q1"
+            android:textColor="#fa8d0d"
+            android:textSize="22sp"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/questionLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textSize="20sp"
+        android:textColor="#064474"
+        android:gravity="center"
+        android:padding="8dp"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mt. Pulag"
+                android:textColor="#064474"
+                android:background="@drawable/quizbutton"
+                android:padding="8dp"
+                android:layout_marginBottom="24dp"
+                android:id="@+id/choice1"
+                android:onClick="checkAnswer"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mt. Dulang-Dulang"
+                android:textColor="#064474"
+                android:background="@drawable/quizbutton"
+                android:padding="8dp"
+                android:layout_marginBottom="24dp"
+                android:id="@+id/choice2"
+                android:onClick="checkAnswer"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mt. Apo"
+                android:textColor="#064474"
+                android:background="@drawable/quizbutton"
+                android:padding="8dp"
+                android:layout_marginBottom="24dp"
+                android:id="@+id/choice3"
+                android:onClick="checkAnswer"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mt. Kitanglad"
+                android:textColor="#064474"
+                android:background="@drawable/quizbutton"
+                android:padding="8dp"
+                android:layout_marginBottom="24dp"
+                android:id="@+id/choice4"
+                android:onClick="checkAnswer"/>
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Quit"
+                android:background="@drawable/custom_text"
+                android:textColor="#064474"
+                android:padding="8dp"
+                android:layout_gravity="left"
+                android:layout_marginTop="24dp"
+                android:onClick="btn_Exit"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -9,7 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Agapay">
-        <activity android:name=".QuizNationalism"></activity>
+        <activity android:name=".QuizDevelopmentstudies"></activity>
+        <activity android:name=".QuizSocialwork" />
+        <activity android:name=".QuizAnthropology" />
+        <activity android:name=".QuizSociology" />
+        <activity android:name=".QuizPolitics" />
+        <activity android:name=".QuizContemporaryissue" />
+        <activity android:name=".QuizEconomics" />
+        <activity android:name=".QuizWorldhistory" />
+        <activity android:name=".QuizAsianstudies" />
+        <activity android:name=".QuizNationalism" />
         <activity android:name=".QuizPhilippines" />
         <activity android:name=".QuizPdc" />
         <activity android:name=".QuizPopulation" />
@@ -47,10 +56,10 @@
             </intent-filter>
         </activity>
     </application>
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>

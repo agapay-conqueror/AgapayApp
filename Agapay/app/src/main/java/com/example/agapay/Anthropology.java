@@ -39,4 +39,8 @@ public class Anthropology extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizAnthropology(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizAnthropology.class));
+    }
 }

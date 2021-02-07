@@ -35,4 +35,8 @@ public class Politics extends AppCompatActivity {
     public void btn_home(View view) {
         startActivity(new Intent(getApplicationContext(),Topics.class));
     }
+
+    public void btn_QuizPolitics(View view) {
+        startActivity(new Intent(getApplicationContext(), QuizPolitics.class));
+    }
 }

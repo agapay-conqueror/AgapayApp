@@ -224,7 +224,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/custom_text2"
-            android:text="2. LIGUISTIC!"
+            android:text="2. LINGUISTIC!"
             android:textSize="20sp"
             android:gravity="center"
             android:textColor="#fa8d0d"/>
@@ -329,6 +329,16 @@
             android:layout_marginTop="10dp"
             android:textSize="17sp"
             android:textColor="#064474"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Take a quiz!"
+            android:background="@drawable/custom_text"
+            android:textSize="20sp"
+            android:textColor="#064474"
+            android:onClick="btn_QuizAnthropology"/>
 
         <LinearLayout
             android:layout_width="match_parent"
