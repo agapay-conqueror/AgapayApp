@@ -9,26 +9,21 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import static android.widget.Toast.LENGTH_LONG;
+
 public class Topics extends AppCompatActivity {
-    private ImageButton button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_topics);
-        button = (ImageButton) findViewById(R.id.btn_help);
-        button.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View view) {
-                openDialog();
-            }
-        });
+
+
+        Toast toast = Toast.makeText(this, "Click the Button Below to proceed!", LENGTH_LONG);
+        toast.setGravity(Gravity.TOP | Gravity.START, 90, 90);
+        toast.show();
     }
 
-    public void openDialog(){
-        ExampleDialog exampleDialog = new ExampleDialog();
-        exampleDialog.show(getSupportFragmentManager(), "example dialog");
-    }
 
     public void btn_elementary(View view) {
         startActivity(new Intent(getApplicationContext(),Elementary.class));

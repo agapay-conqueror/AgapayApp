@@ -18,7 +18,7 @@
             android:text="VIDEOS ABOUT ARALING PANLIPUNAN/SOCIAL STUDIES!"
             android:background="@drawable/custom_text2"
             android:textColor="#fa8d0d"
-            android:textSize="15sp"
+            android:textSize="20sp"
             android:gravity="center"/>
 
         <!--first video-->
@@ -26,10 +26,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:text="My family/Social Studies/Grade 1"
             android:layout_marginTop="20dp"/>
 
@@ -46,10 +44,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Social Studies/Grade 1"/>
 
@@ -66,10 +62,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Second Grade Social Studies - How to Read a Map"/>
 
@@ -86,10 +80,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Countries Of The World With Flags/Countries Of The World Song"/>
 
@@ -115,10 +107,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="AP5 Unit 1 Aralin 1 - Pagtukoy sa Kinalalagya ng Pilipinas | Ang Globo at ang mga Imahinasyong Guhit"/>
 
@@ -135,10 +125,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="ARALING PANLIPUNAN 2 | QUARTER 2 WEEK 5 | URI NG SINING AT PAGKAKAKILANLAN SA SARILING KOMUNIDAD"/>
 
@@ -155,10 +143,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Mga Direksyon -Araling Panlipunan 3"/>
 
@@ -175,10 +161,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Konsepto ng Komunidad (Ang Aking Komunidad)"/>
 
@@ -195,10 +179,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Araling Panlipunan Grade 6 | Mga Uri ng Pamahalaan at Patakarang Ipinatupad sa Panahon ng Amerikano"/>
 
@@ -215,10 +197,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Araling Panlipunan 2 Mga Bumubuo sa Komunidad"/>
 
@@ -235,10 +215,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Impluwensiya ng mga Kaisipang Asyano sa Kalagayang Panlipunan (AP 7)"/>
 
@@ -255,10 +233,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Araling Panlipunan 4: Gawaing Nagsusulong ng Likas Kayang Pag-unlad ng mga Likas na Yaman ng Bansa"/>
 
@@ -275,10 +251,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Araling Panlipunan 4 Weeks 5-6 | Likas Kayang Pag-unlad"/>
 
@@ -295,10 +269,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="Araling Panlipunan 6 Quarter 2 Week 4 | Ang Resulta ng Pananakop ng mga Amerikano"/>
 
@@ -315,10 +287,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@drawable/custom_text"
             android:textColor="#064474"
             android:textSize="20sp"
-            android:gravity="center"
             android:layout_marginTop="20dp"
             android:text="ARALING PANLIPUNAN 3 | SIMBOLO AT SAGISAG NA NAGPAPAKILALA NG IBA'T-IBANG LALAWIGAN SA REHIYON | 4-5"/>
 
@@ -337,7 +307,7 @@
             android:text="Back"
             android:layout_marginTop="20dp"
             android:fontFamily="monospace"
-            android:textColor="#064474"
+            android:textColor="@color/black"
             android:background="@drawable/custom_loginbutton"
             android:onClick="btn_back"/>
 

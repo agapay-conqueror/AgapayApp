@@ -15,12 +15,11 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:background="@drawable/custom_text2"
-            android:text="Development Studies!"
-            android:textSize="25sp"
+            android:layout_height="wrap_content"
+            android:text="DEVELOPMENT STUDIES!"
+            android:textSize="30sp"
             android:gravity="center"
-            android:textColor="#fa8d0d"/>
+            android:textColor="@color/black"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
@@ -325,7 +324,7 @@ of underdevelopment, and to prescribe appropriate policies to eradicate it."
                 android:layout_marginLeft="7dp"
                 android:text="categories"
                 android:fontFamily="monospace"
-                android:textColor="#064474"
+                android:textColor="@color/black"
                 android:layout_marginTop="20dp"
                 android:background="@drawable/custom_loginbutton"
                 android:onClick="btn_home"/>
@@ -336,7 +335,7 @@ of underdevelopment, and to prescribe appropriate policies to eradicate it."
                 android:text="Back"
                 android:layout_marginTop="20dp"
                 android:fontFamily="monospace"
-                android:textColor="#064474"
+                android:textColor="@color/black"
                 android:background="@drawable/custom_loginbutton"
                 android:onClick="btn_back"/>
         </LinearLayout>

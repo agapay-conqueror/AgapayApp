@@ -14,13 +14,6 @@
         android:padding="30dp"
         tools:context=".Elementary">
 
-        <ImageButton
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:src="@drawable/ic_help"
-            android:background="@drawable/custom_imagebutton"
-            android:layout_gravity="right"
-            android:id="@+id/btn_help"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -94,7 +87,7 @@
                 android:layout_marginLeft="7dp"
                 android:text="HOME"
                 android:fontFamily="monospace"
-                android:textColor="#064474"
+                android:textColor="@color/black"
                 android:layout_marginTop="20dp"
                 android:background="@drawable/custom_loginbutton"
                 android:onClick="btn_home"/>
@@ -105,7 +98,7 @@
                 android:text="Back"
                 android:layout_marginTop="20dp"
                 android:fontFamily="monospace"
-                android:textColor="#064474"
+                android:textColor="@color/black"
                 android:background="@drawable/custom_loginbutton"
                 android:onClick="btn_back"/>
         </LinearLayout>

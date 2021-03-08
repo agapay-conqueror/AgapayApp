@@ -27,20 +27,21 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="#fff"
+        android:textColorHint="#fa8d0d"
         tools:ignore="MissingConstraints"
-        app:hintTextColor="#fff">
+        app:hintTextColor="#fa8d0d">
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:background="@drawable/custom_edittext"
             android:fontFamily="monospace"
             android:textColor="#fff"
             android:hint="Full Name:"
             android:ems="10"
             android:inputType="text"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:padding="5dp"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -49,22 +50,23 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="#fff"
+        android:textColorHint="#fa8d0d"
         tools:ignore="MissingConstraints"
         android:layout_marginTop="20dp"
-        app:hintTextColor="#fff">
+        app:hintTextColor="#fa8d0d">
 
         <EditText
             android:id="@+id/txt_email"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:background="@drawable/custom_edittext"
             android:fontFamily="monospace"
             android:textColor="#fff"
             android:hint="Email:"
             android:ems="10"
             android:inputType="text"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:padding="5dp"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -73,23 +75,24 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="#fff"
+        android:textColorHint="#fa8d0d"
         tools:ignore="MissingConstraints"
         android:layout_marginTop="20dp"
         app:passwordToggleEnabled="true"
-        app:hintTextColor="#fff">
+        app:hintTextColor="#fa8d0d">
 
         <EditText
             android:id="@+id/txt_password"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:background="@drawable/custom_edittext"
             android:fontFamily="monospace"
             android:textColor="#fff"
             android:hint="Password:"
             android:ems="10"
             android:inputType="text"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:padding="5dp"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -98,23 +101,24 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="#fff"
+        android:textColorHint="#fa8d0d"
         tools:ignore="MissingConstraints"
         android:layout_marginTop="20dp"
         app:passwordToggleEnabled="true"
-        app:hintTextColor="#fff">
+        app:hintTextColor="#fa8d0d">
 
         <EditText
             android:id="@+id/txt_confirm_password"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:background="@drawable/custom_edittext"
             android:hint="Confirm password:"
             android:textColor="#fff"
             android:fontFamily="monospace"
             android:ems="10"
             android:inputType="text"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:padding="5dp"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 

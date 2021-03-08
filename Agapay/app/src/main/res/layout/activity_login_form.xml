@@ -31,7 +31,7 @@
             <EditText
                 android:id="@+id/txt_email"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="50dp"
                 android:background="@drawable/custom_login"
                 android:fontFamily="monospace"
                 android:hint="Email:"
@@ -39,7 +39,8 @@
                 android:ems="10"
                 android:inputType="text"
                 android:textSize="20sp"
-                android:drawableRight="@drawable/ic_email" />
+                android:drawableRight="@drawable/ic_email"
+                android:padding="5dp"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -57,14 +58,15 @@
             <EditText
                 android:id="@+id/txt_password"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="50dp"
                 android:background="@drawable/custom_login"
                 android:fontFamily="monospace"
                 android:textColor="#fa8d0d"
                 android:hint="Password:"
                 android:ems="10"
                 android:inputType="textPassword"
-                android:textSize="20sp"/>
+                android:textSize="20sp"
+                android:padding="5dp"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -84,13 +86,13 @@
             android:layout_height="match_parent"
             android:orientation="horizontal"
             android:layout_marginTop="20dp"
-            android:gravity="center">
+            android:gravity="right">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Don't have an account?"
-            android:textColor="#fa8d0d"
-            android:textSize="15sp"
+            android:textColor="#064474"
+            android:textSize="18sp"
             android:fontFamily="monospace"/>
 
         <Button

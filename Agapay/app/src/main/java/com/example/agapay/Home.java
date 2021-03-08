@@ -11,10 +11,11 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import java.time.Duration;
+
 import static android.widget.Toast.*;
 
 public class Home extends AppCompatActivity {
-    private ImageButton button;
     Button logout;
 
     @Override
@@ -32,18 +33,10 @@ public class Home extends AppCompatActivity {
             }
         });
 
-        button = (ImageButton) findViewById(R.id.btn_help);
-        button.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View view) {
-                openDialog();
-            }
-        });
-    }
 
-    public void openDialog(){
-        ExampleDialog exampleDialog = new ExampleDialog();
-        exampleDialog.show(getSupportFragmentManager(), "example dialog");
+        Toast toast = Toast.makeText(this, "Click the Button Below to proceed!", LENGTH_LONG);
+        toast.setGravity(Gravity.TOP | Gravity.START, 90, 90);
+        toast.show();
     }
 
 

@@ -15,12 +15,11 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:background="@drawable/custom_text2"
+            android:layout_height="wrap_content"
             android:text="Developing the Philippines as a Nation!"
-            android:textSize="20sp"
+            android:textSize="30sp"
             android:gravity="center"
-            android:textColor="#fa8d0d"/>
+            android:textColor="@color/black"/>
 
         <com.github.chrisbanes.photoview.PhotoView
             android:layout_width="match_parent"
@@ -58,7 +57,8 @@
             android:text="Top FIVE Priorities!"
             android:textSize="20sp"
             android:gravity="center"
-            android:textColor="#064474"/>
+            android:layout_marginTop="10dp"
+            android:textColor="#fa8d0d"/>
 
         <!--codes for MANUFACTURING-->
 
@@ -210,7 +210,7 @@
                 android:layout_marginLeft="7dp"
                 android:text="categories"
                 android:fontFamily="monospace"
-                android:textColor="#064474"
+                android:textColor="@color/black"
                 android:layout_marginTop="20dp"
                 android:background="@drawable/custom_loginbutton"
                 android:onClick="btn_home"/>
@@ -221,7 +221,7 @@
                 android:text="Back"
                 android:layout_marginTop="20dp"
                 android:fontFamily="monospace"
-                android:textColor="#064474"
+                android:textColor="@color/black"
                 android:background="@drawable/custom_loginbutton"
                 android:onClick="btn_back"/>
         </LinearLayout>
